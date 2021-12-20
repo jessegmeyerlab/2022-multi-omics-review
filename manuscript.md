@@ -42,9 +42,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/51832598e30643dff40db4d10c76b90315d84315/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/51832598e30643dff40db4d10c76b90315d84315/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/51832598e30643dff40db4d10c76b90315d84315/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/f20551b763df275ec5b7f8ee3ee510ce74ed200e/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/f20551b763df275ec5b7f8ee3ee510ce74ed200e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/f20551b763df275ec5b7f8ee3ee510ce74ed200e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/51832598e30643dff40db4d10c76b90315d84315/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/f20551b763df275ec5b7f8ee3ee510ce74ed200e/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@5183259](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/51832598e30643dff40db4d10c76b90315d84315)
+from [jessegmeyerlab/2022-multi-omics-review@f20551b](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/f20551b763df275ec5b7f8ee3ee510ce74ed200e)
 on December 20, 2021.
 </em></small>
 
@@ -110,7 +110,7 @@ Here is where we briefly go over the following:
 
 
 
-# Sample Preparation for Multi-Omic Analysis
+## Sample Preparation for Multi-Omic Analysis
 
 
 ## References {.page_break_before}
