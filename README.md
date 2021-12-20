@@ -2,9 +2,11 @@
 ### project information
 
 
-**Purpose.** This document is not for writing the review. This document is for collecting relevant papers and a to-do list of concepts we want to cover and figures we want to make. We will use [Manubot](https://github.com/manubot/manubot) to write this manuscript and track contributions. See the remaining readme below this section or at the link above for more information about manubot. 
+**Purpose.** This document is for collecting relevant papers and a to-do list of concepts we want to cover and figures we want to make. We will use [Manubot](https://github.com/manubot/manubot) to write this manuscript and track contributions. See the remaining readme below this section or at the link above for more information about manubot. 
 
-I will be the last author, and I suggest that Yuming take the lead. We will decide author order for everyone else based on the contributions recorded via github. We can consider co-first or co-second author depending on contributions. Our target Journal is [Nature Methods](https://www.nature.com/nmeth/content). 
+**Authorship.** I will be the last author, and I suggest that Yuming take the lead. We will decide author order for everyone else based on the contributions recorded via github. We can consider co-first or co-second author depending on contributions. Our target Journal is [Nature Methods](https://www.nature.com/nmeth/content). 
+
+**Organizing and listing of papers** can be done via a shared google doc here https://docs.google.com/document/d/1eruym4GMuzwwJbnksKrqL0SAqpoDZDZEoXF4wLfPWeI/edit?usp=sharing
 
 **Effort.** This review should take second priority after primary research projects. I recommend scheduling 1 hour per day to work on the review. Personally, I like to have that hour in the morning when I arrive, but you may prefer right before you leave or mid-day. You will be surprised with how much you get done if you spend 1 hour per day. Some days you might spend more or less time on this depending on how your primary project is progressing. I expect at least some progress by everyone each week. 
 
