@@ -1,24 +1,25 @@
 ---
-title: Manuscript Title
+title: 'Mass Spectrometry-based Multi-Omics: Proteomics, Metabolomics, and Lipidomics'
 keywords:
-- markdown
-- publishing
-- manubot
+- proteomics
+- metabolomics
+- lipidomics
+- mass spectrometry
 lang: en-US
 date-meta: '2021-12-20'
 author-meta:
-- John Doe
 - Jane Roe
+- Jesse G. Meyer
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Mass Spectrometry-based Multi-Omics: Proteomics, Metabolomics, and Lipidomics" />
+  <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Proteomics, Metabolomics, and Lipidomics" />
+  <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Proteomics, Metabolomics, and Lipidomics" />
+  <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Proteomics, Metabolomics, and Lipidomics" />
   <meta name="dc.date" content="2021-12-20" />
   <meta name="citation_publication_date" content="2021-12-20" />
   <meta name="dc.language" content="en-US" />
@@ -27,23 +28,23 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
   <meta name="citation_author" content="Jane Roe" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Jesse G. Meyer" />
+  <meta name="citation_author_institution" content="Department of Biochemistry, Medical College of Wisconsin" />
+  <meta name="citation_author_orcid" content="0000-0003-2753-3926" />
+  <meta name="twitter:creator" content="@j_my_sci" />
   <link rel="canonical" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta property="og:url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta property="twitter:url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/3cf004076cc66376e8de3f91e9cc25876704dcab/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/3cf004076cc66376e8de3f91e9cc25876704dcab/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/3cf004076cc66376e8de3f91e9cc25876704dcab/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/8d9dbdecca151be72ffe9520697a02c019e0a531/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/8d9dbdecca151be72ffe9520697a02c019e0a531/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/8d9dbdecca151be72ffe9520697a02c019e0a531/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,27 +66,15 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/3cf004076cc66376e8de3f91e9cc25876704dcab/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/8d9dbdecca151be72ffe9520697a02c019e0a531/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@3cf0040](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/3cf004076cc66376e8de3f91e9cc25876704dcab)
+from [jessegmeyerlab/2022-multi-omics-review@8d9dbde](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/8d9dbdecca151be72ffe9520697a02c019e0a531)
 on December 20, 2021.
 </em></small>
 
 ## Authors
 
 
-
-+ **John Doe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)<br>
-  <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
 
 + **Jane Roe**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
@@ -94,6 +83,18 @@ on December 20, 2021.
     [janeroe](https://github.com/janeroe)<br>
   <small>
      Department of Something, University of Whatever; Department of Whatever, University of Something
+  </small>
+
++ **Jesse G. Meyer**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0003-2753-3926](https://orcid.org/0000-0003-2753-3926)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [jessegmeyerlab](https://github.com/jessegmeyerlab)
+    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
+    [j_my_sci](https://twitter.com/j_my_sci)<br>
+  <small>
+     Department of Biochemistry, Medical College of Wisconsin
+     · Funded by Grant R21 AG074234; Grant R35 GM142502
   </small>
 
 
