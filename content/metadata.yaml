@@ -1,21 +1,13 @@
 ---
-title: "Manuscript Title"
+title: "Mass Spectrometry-based Multi-Omics: Proteomics, Metabolomics, and Lipidomics"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - proteomics
+  - metabolomics
+  - lipidomics
+  - mass spectrometry
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
-    affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
+
   - github: janeroe
     name: Jane Roe
     initials: JR
@@ -24,3 +16,15 @@ authors:
     affiliations:
       - Department of Something, University of Whatever
       - Department of Whatever, University of Something
+      
+  - github: jessegmeyerlab
+    name: Jesse G. Meyer
+    initials: JGM
+    orcid: 0000-0003-2753-3926
+    twitter: j_my_sci
+    email: jessegmeyer@gmail.com
+    affiliations:
+      - Department of Biochemistry, Medical College of Wisconsin
+    funders:
+      - Grant R21 AG074234
+      - Grant R35 GM142502
