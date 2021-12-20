@@ -1,5 +1,5 @@
 ---
-title: 'Mass Spectrometry-based Multi-Omics: Proteomics, Metabolomics, and Lipidomics'
+title: 'Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics'
 keywords:
 - proteomics
 - metabolomics
@@ -16,10 +16,10 @@ header-includes: |-
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Mass Spectrometry-based Multi-Omics: Proteomics, Metabolomics, and Lipidomics" />
-  <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Proteomics, Metabolomics, and Lipidomics" />
-  <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Proteomics, Metabolomics, and Lipidomics" />
-  <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Proteomics, Metabolomics, and Lipidomics" />
+  <meta name="dc.title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
+  <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
+  <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
+  <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta name="dc.date" content="2021-12-20" />
   <meta name="citation_publication_date" content="2021-12-20" />
   <meta name="dc.language" content="en-US" />
@@ -42,9 +42,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/61c2589ad625b19b7717449b87857436bc564f73/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/61c2589ad625b19b7717449b87857436bc564f73/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/61c2589ad625b19b7717449b87857436bc564f73/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/51832598e30643dff40db4d10c76b90315d84315/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/51832598e30643dff40db4d10c76b90315d84315/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/51832598e30643dff40db4d10c76b90315d84315/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/61c2589ad625b19b7717449b87857436bc564f73/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/51832598e30643dff40db4d10c76b90315d84315/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@61c2589](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/61c2589ad625b19b7717449b87857436bc564f73)
+from [jessegmeyerlab/2022-multi-omics-review@5183259](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/51832598e30643dff40db4d10c76b90315d84315)
 on December 20, 2021.
 </em></small>
 
