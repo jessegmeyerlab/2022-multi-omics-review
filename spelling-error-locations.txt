@@ -1,1 +1,6 @@
+content/02.introduction.md:6:proteomics
+content/02.introduction.md:7:metabolomics
+content/02.introduction.md:8:metabolomics
+content/02.introduction.md:9:lipidomics
+content/02.introduction.md:10:omic
 content/03.sample-preparation.md:1:Omic

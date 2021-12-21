@@ -1,4 +1,7 @@
 janeroe
 jessegmeyerlab
-Omic
+lipidomics
+metabolomics
+omic
+proteomics
 XXXX

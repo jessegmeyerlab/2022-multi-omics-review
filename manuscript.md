@@ -6,7 +6,7 @@ keywords:
 - lipidomics
 - mass spectrometry
 lang: en-US
-date-meta: '2021-12-20'
+date-meta: '2021-12-21'
 author-meta:
 - Jane Roe
 - Jesse G. Meyer
@@ -20,8 +20,8 @@ header-includes: |-
   <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
-  <meta name="dc.date" content="2021-12-20" />
-  <meta name="citation_publication_date" content="2021-12-20" />
+  <meta name="dc.date" content="2021-12-21" />
+  <meta name="citation_publication_date" content="2021-12-21" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/3ee6e9b8d842666d7d4ffa180eb59f875b4ed955/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/3ee6e9b8d842666d7d4ffa180eb59f875b4ed955/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/3ee6e9b8d842666d7d4ffa180eb59f875b4ed955/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2f546dba5e2705c2ffaa709c396f7ce007cb7b4f/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2f546dba5e2705c2ffaa709c396f7ce007cb7b4f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2f546dba5e2705c2ffaa709c396f7ce007cb7b4f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/3ee6e9b8d842666d7d4ffa180eb59f875b4ed955/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2f546dba5e2705c2ffaa709c396f7ce007cb7b4f/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@3ee6e9b](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/3ee6e9b8d842666d7d4ffa180eb59f875b4ed955)
-on December 20, 2021.
+from [jessegmeyerlab/2022-multi-omics-review@2f546db](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/2f546dba5e2705c2ffaa709c396f7ce007cb7b4f)
+on December 21, 2021.
 </em></small>
 
 ## Authors
@@ -107,6 +107,15 @@ on December 20, 2021.
 ## Introduction
 
 Here is where we briefly go over the following:
+
+1. Cover other reviews
+2. What is proteomics
+3. what is metabolomics
+  a. polar metabolomics
+  b. lipidomics
+4. what does multi-omic integration mean?
+
+
 
 Test adding citation [@url:https://www.nature.com/articles/s41592-020-00999-z]
 
