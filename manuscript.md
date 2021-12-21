@@ -42,9 +42,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/237a1a4b522627125d849cd6be6541a8997d65d6/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/237a1a4b522627125d849cd6be6541a8997d65d6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/237a1a4b522627125d849cd6be6541a8997d65d6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/79bc8154f5c94959dd6ab3a2f0c3bd59cc30852d/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/79bc8154f5c94959dd6ab3a2f0c3bd59cc30852d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/79bc8154f5c94959dd6ab3a2f0c3bd59cc30852d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/237a1a4b522627125d849cd6be6541a8997d65d6/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/79bc8154f5c94959dd6ab3a2f0c3bd59cc30852d/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@237a1a4](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/237a1a4b522627125d849cd6be6541a8997d65d6)
+from [jessegmeyerlab/2022-multi-omics-review@79bc815](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/79bc8154f5c94959dd6ab3a2f0c3bd59cc30852d)
 on December 21, 2021.
 </em></small>
 
@@ -142,6 +142,8 @@ Test adding citation by PMID [@PMID:22610994]
  doi:10.1038/nprot.2016.156
  
  https://www.nature.com/articles/s41596-020-0341-5
+ 
+ 
  https://pubs.rsc.org/en/content/articlelanding/2020/an/d0an01149e/unauth
  
 
