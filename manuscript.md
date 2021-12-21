@@ -42,9 +42,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2f546dba5e2705c2ffaa709c396f7ce007cb7b4f/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2f546dba5e2705c2ffaa709c396f7ce007cb7b4f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2f546dba5e2705c2ffaa709c396f7ce007cb7b4f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/df0ccf1d1f2f79764657d6159c4ab1c5deabcc99/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/df0ccf1d1f2f79764657d6159c4ab1c5deabcc99/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/df0ccf1d1f2f79764657d6159c4ab1c5deabcc99/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2f546dba5e2705c2ffaa709c396f7ce007cb7b4f/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/df0ccf1d1f2f79764657d6159c4ab1c5deabcc99/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@2f546db](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/2f546dba5e2705c2ffaa709c396f7ce007cb7b4f)
+from [jessegmeyerlab/2022-multi-omics-review@df0ccf1](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/df0ccf1d1f2f79764657d6159c4ab1c5deabcc99)
 on December 21, 2021.
 </em></small>
 
@@ -111,8 +111,8 @@ Here is where we briefly go over the following:
 1. Cover other reviews
 2. What is proteomics
 3. what is metabolomics
-  a. polar metabolomics
-  b. lipidomics
+     * polar metabolomics
+     * lipidomics
 4. what does multi-omic integration mean?
 
 
