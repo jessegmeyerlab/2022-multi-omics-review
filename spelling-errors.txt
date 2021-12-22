@@ -2,7 +2,7 @@ janeroe
 jessegmeyerlab
 lipidomics
 metabolomics
-omic
+Omic
 omics
 prepatation
 proteomics
