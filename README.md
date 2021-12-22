@@ -1,5 +1,9 @@
 # 2022 Team Review: Mass Spectrometry-based Multi-Omics
+
+[**view the current version of the review here**](https://jessegmeyerlab.github.io/2022-multi-omics-review/)
+
 ### project information
+
 
 
 **Purpose.** This document is for collecting relevant papers and a to-do list of concepts we want to cover and figures we want to make. We will use [Manubot](https://github.com/manubot/manubot) to write this manuscript and track contributions. See the remaining readme below this section or at the link above for more information about manubot. 
