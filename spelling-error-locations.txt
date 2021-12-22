@@ -12,4 +12,4 @@ content/03.sample-preparation.md:15:metabolomics
 content/03.sample-preparation.md:18:lipidomics
 content/03.sample-preparation.md:22:omics
 content/03.sample-preparation.md:22:prepatation
-content/03.sample-preparation.md:23:omics
+content/03.sample-preparation.md:24:omics
