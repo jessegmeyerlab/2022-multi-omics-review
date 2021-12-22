@@ -9,13 +9,32 @@ lang: en-US
 authors:
 
   - github: janeroe
-    name: Jane Roe
-    initials: JR
+    name: Yuming Jiang
+    initials: YJ
     orcid: XXXX-XXXX-XXXX-XXXX
     email: jane.roe@whatever.edu
     affiliations:
       - Department of Something, University of Whatever
       - Department of Whatever, University of Something
+      
+  - github: janeroe
+    name: Quinn Dickinson
+    initials: QD
+    orcid: XXXX-XXXX-XXXX-XXXX
+    email: jane.roe@whatever.edu
+    affiliations:
+      - Department of Something, University of Whatever
+      - Department of Whatever, University of Something
+      
+  - github: janeroe
+    name: Amanda Momenzadeh
+    initials: AM
+    orcid: XXXX-XXXX-XXXX-XXXX
+    email: jane.roe@whatever.edu
+    affiliations:
+      - Department of Something, University of Whatever
+      - Department of Whatever, University of Something
+      
       
   - github: jessegmeyerlab
     name: Jesse G. Meyer
