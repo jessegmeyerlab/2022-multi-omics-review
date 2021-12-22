@@ -4,8 +4,12 @@ content/02.introduction.md:8:metabolomics
 content/02.introduction.md:9:lipidomics
 content/02.introduction.md:10:omic
 content/03.sample-preparation.md:1:Omic
-content/03.sample-preparation.md:2:proteomics
-content/03.sample-preparation.md:6:metabolomics
-content/03.sample-preparation.md:7:metabolomics
+content/03.sample-preparation.md:4:omics
+content/03.sample-preparation.md:5:proteomics
+content/03.sample-preparation.md:9:metabolomics
 content/03.sample-preparation.md:11:metabolomics
-content/03.sample-preparation.md:14:lipidomics
+content/03.sample-preparation.md:15:metabolomics
+content/03.sample-preparation.md:18:lipidomics
+content/03.sample-preparation.md:22:omics
+content/03.sample-preparation.md:22:prepatation
+content/03.sample-preparation.md:23:omics
