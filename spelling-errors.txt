@@ -1,12 +1,14 @@
 janeroe
 jessegmeyerlab
+Jiang
 lipidomics
 metabolome
 metabolomics
+Momenzadeh
 multiomic
 multiomics
 omes
-omic
+Omic
 omics
 prepatation
 proteome
@@ -14,3 +16,4 @@ proteomics
 spectrometry
 transcriptome
 XXXX
+Yuming

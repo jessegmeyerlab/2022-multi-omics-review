@@ -8,7 +8,9 @@ keywords:
 lang: en-US
 date-meta: '2021-12-22'
 author-meta:
-- Jane Roe
+- Yuming Jiang
+- Quinn Dickinson
+- Amanda Momenzadeh
 - Jesse G. Meyer
 header-includes: |-
   <!--
@@ -28,7 +30,15 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="Jane Roe" />
+  <meta name="citation_author" content="Yuming Jiang" />
+  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Quinn Dickinson" />
+  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Amanda Momenzadeh" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
@@ -42,9 +52,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fdab123249fdd7502be6ce99a1b1cce5a406f128/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fdab123249fdd7502be6ce99a1b1cce5a406f128/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fdab123249fdd7502be6ce99a1b1cce5a406f128/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/f51d695601cf3dc733ab238e518715ee5583362b/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/f51d695601cf3dc733ab238e518715ee5583362b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/f51d695601cf3dc733ab238e518715ee5583362b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +76,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fdab123249fdd7502be6ce99a1b1cce5a406f128/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/f51d695601cf3dc733ab238e518715ee5583362b/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@fdab123](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/fdab123249fdd7502be6ce99a1b1cce5a406f128)
+from [jessegmeyerlab/2022-multi-omics-review@f51d695](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/f51d695601cf3dc733ab238e518715ee5583362b)
 on December 22, 2021.
 </em></small>
 
@@ -76,7 +86,25 @@ on December 22, 2021.
 
 
 
-+ **Jane Roe**<br>
++ **Yuming Jiang**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [janeroe](https://github.com/janeroe)<br>
+  <small>
+     Department of Something, University of Whatever; Department of Whatever, University of Something
+  </small>
+
++ **Quinn Dickinson**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [janeroe](https://github.com/janeroe)<br>
+  <small>
+     Department of Something, University of Whatever; Department of Whatever, University of Something
+  </small>
+
++ **Amanda Momenzadeh**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
