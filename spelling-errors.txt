@@ -8,7 +8,7 @@ Momenzadeh
 multiomic
 multiomics
 omes
-Omic
+omic
 omics
 prepatation
 proteome

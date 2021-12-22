@@ -19,12 +19,12 @@ content/01.abstract.md:3:spectrometry
 content/01.abstract.md:3:spectrometry
 content/01.abstract.md:3:spectrometry
 content/01.abstract.md:3:transcriptome
-content/02.introduction.md:4:multiomics
-content/02.introduction.md:5:proteomics
-content/02.introduction.md:6:metabolomics
+content/02.introduction.md:5:multiomics
+content/02.introduction.md:6:proteomics
 content/02.introduction.md:7:metabolomics
-content/02.introduction.md:8:lipidomics
-content/02.introduction.md:9:omic
+content/02.introduction.md:8:metabolomics
+content/02.introduction.md:9:lipidomics
+content/02.introduction.md:10:omic
 content/03.sample-preparation.md:1:Omic
 content/03.sample-preparation.md:4:omics
 content/03.sample-preparation.md:6:proteomics
