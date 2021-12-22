@@ -2,8 +2,12 @@ janeroe
 jessegmeyerlab
 lipidomics
 metabolomics
-omic
+microarrays
+omes
+Omic
 omics
 prepatation
 proteomics
+transcriptomics
+WGS
 XXXX

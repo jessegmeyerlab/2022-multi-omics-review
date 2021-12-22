@@ -1,3 +1,9 @@
+content/01.abstract.md:3:microarrays
+content/01.abstract.md:3:omes
+content/01.abstract.md:3:omics
+content/01.abstract.md:3:Omics
+content/01.abstract.md:3:transcriptomics
+content/01.abstract.md:3:WGS
 content/02.introduction.md:6:proteomics
 content/02.introduction.md:7:metabolomics
 content/02.introduction.md:8:metabolomics
