@@ -42,9 +42,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2e803325f1e3c4fe30ebc114fa04684e4b29f79c/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2e803325f1e3c4fe30ebc114fa04684e4b29f79c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2e803325f1e3c4fe30ebc114fa04684e4b29f79c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/be7033c69a8eba538112e812cd72e907297fb124/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/be7033c69a8eba538112e812cd72e907297fb124/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/be7033c69a8eba538112e812cd72e907297fb124/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2e803325f1e3c4fe30ebc114fa04684e4b29f79c/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/be7033c69a8eba538112e812cd72e907297fb124/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@2e80332](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/2e803325f1e3c4fe30ebc114fa04684e4b29f79c)
+from [jessegmeyerlab/2022-multi-omics-review@be7033c](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/be7033c69a8eba538112e812cd72e907297fb124)
 on December 22, 2021.
 </em></small>
 
@@ -127,18 +127,18 @@ Test adding citation by PMID [@PMID:22610994]
 
 
 Integrative multi-omics analysis is a powerful approach to study complex biological responses and has gained popularity in recent years. To avoid the potential 
-1, sample preparation for proteomics 
+
+1, Sample preparation for proteomics 
 
 
 
-2, sample preparation for metabolomics
+2, Sample preparation for metabolomics
 
 2.1 non-targeted metabolomics 
 
  https://www.nature.com/articles/s41596-020-0341-5
 
 2.2 targeted metabolomics
-
 
 2.3 lipidomics
 
