@@ -42,9 +42,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a603d120c7226e7924c979da66729672d6831079/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a603d120c7226e7924c979da66729672d6831079/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a603d120c7226e7924c979da66729672d6831079/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ccd5df2abd9b30ae61cfde2ec97599d61a10e265/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ccd5df2abd9b30ae61cfde2ec97599d61a10e265/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ccd5df2abd9b30ae61cfde2ec97599d61a10e265/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a603d120c7226e7924c979da66729672d6831079/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ccd5df2abd9b30ae61cfde2ec97599d61a10e265/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@a603d12](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/a603d120c7226e7924c979da66729672d6831079)
+from [jessegmeyerlab/2022-multi-omics-review@ccd5df2](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/ccd5df2abd9b30ae61cfde2ec97599d61a10e265)
 on December 22, 2021.
 </em></small>
 
@@ -101,7 +101,7 @@ on December 22, 2021.
 
 ## Abstract {.page_break_before}
 
-Multi-Omics studies integrate unbiased measurements across at least two omics layers. The number of measurable 'omes' has expanded to include whole genome sequencing (WGS), structural chromatin studies (e.g. ATAC-seq, ChiP-seq), transcriptomics (e.g. RNA-seq or microarrays), 
+Studies that integrate unbiased measurements across at least two omics layers are often referred to as "multiomics". Measurable "omes" include the genome, transcriptome, proteome, and metabolome. Any combination of omic measures can be referred to as multiomics; for the scope of this review we focus on research combining proteomics and metabolomics. Mass spectrometry is the leading technique for analysis of the proteome and the metabolome. Due to improvements in sample preparation and data collection, more studies are incorporating both mass spectrometry-based proteomics and metabolomics. In this review, we discuss the perceived value of multiomics, advances in sample preparation and data collection, the current state of multiomic data integration, and clinical examples of multiomic analysis. Finally, we explore major barriers preventing democratization of mass spectrometry based multiomics to the same level as nucleic acid analysis, and we suggest solutions to break these barriers. 
 
 
 ## Introduction
