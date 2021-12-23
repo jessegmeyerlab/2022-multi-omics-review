@@ -6,7 +6,7 @@ keywords:
 - lipidomics
 - mass spectrometry
 lang: en-US
-date-meta: '2021-12-22'
+date-meta: '2021-12-23'
 author-meta:
 - Yuming Jiang
 - Quinn Dickinson
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
-  <meta name="dc.date" content="2021-12-22" />
-  <meta name="citation_publication_date" content="2021-12-22" />
+  <meta name="dc.date" content="2021-12-23" />
+  <meta name="citation_publication_date" content="2021-12-23" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -52,9 +52,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d9ef0325fad44f6b2aaa237eb200ef8fb79ba20d/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d9ef0325fad44f6b2aaa237eb200ef8fb79ba20d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d9ef0325fad44f6b2aaa237eb200ef8fb79ba20d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/c6f1e8e560ed3f88a4205b9732eb9a3518fe7f70/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/c6f1e8e560ed3f88a4205b9732eb9a3518fe7f70/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/c6f1e8e560ed3f88a4205b9732eb9a3518fe7f70/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -76,10 +76,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d9ef0325fad44f6b2aaa237eb200ef8fb79ba20d/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/c6f1e8e560ed3f88a4205b9732eb9a3518fe7f70/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@d9ef032](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/d9ef0325fad44f6b2aaa237eb200ef8fb79ba20d)
-on December 22, 2021.
+from [jessegmeyerlab/2022-multi-omics-review@c6f1e8e](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/c6f1e8e560ed3f88a4205b9732eb9a3518fe7f70)
+on December 23, 2021.
 </em></small>
 
 ## Authors
@@ -186,6 +186,8 @@ In the context of multi-omics analyses, being able to perform multiple measureme
  [@url:https://journals.asm.org/doi/10.1128/mSystems.00043-16]
  
  [@url:10.3389/fgene.2021.635971]
+ 
+ SIMPLEX: [@url:https://doi.org/10.1074/mcp.M115.053702] 
  
 
 
