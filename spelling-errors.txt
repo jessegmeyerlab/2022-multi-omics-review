@@ -5,11 +5,12 @@ lipidomics
 macroscale
 metabolome
 metabolomics
+microbiomics
 Momenzadeh
-Multiomic
+multiomic
 multiomics
 omes
-omic
+Omic
 omics
 phenotypes
 prepatation
@@ -18,5 +19,6 @@ proteomics
 spectrometry
 systesms
 transcriptome
+transcriptomics
 XXXX
 Yuming

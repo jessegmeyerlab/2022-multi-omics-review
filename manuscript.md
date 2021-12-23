@@ -52,9 +52,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/4c551cf26954fb568bbe13a279be0772ff08ba5a/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/4c551cf26954fb568bbe13a279be0772ff08ba5a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/4c551cf26954fb568bbe13a279be0772ff08ba5a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ff7acf3ba34fbb2fc741a1f50d2c1a9d55e5ad71/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ff7acf3ba34fbb2fc741a1f50d2c1a9d55e5ad71/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ff7acf3ba34fbb2fc741a1f50d2c1a9d55e5ad71/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -76,9 +76,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/4c551cf26954fb568bbe13a279be0772ff08ba5a/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ff7acf3ba34fbb2fc741a1f50d2c1a9d55e5ad71/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@4c551cf](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/4c551cf26954fb568bbe13a279be0772ff08ba5a)
+from [jessegmeyerlab/2022-multi-omics-review@ff7acf3](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/ff7acf3ba34fbb2fc741a1f50d2c1a9d55e5ad71)
 on December 23, 2021.
 </em></small>
 
@@ -152,13 +152,25 @@ Topics:
 
     Multi-omics approaches to disease [@url:https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1215-1]
     * overview of each omic technology
-    * focus on methods for omic integration
+    * first section is discusses considerations for before multiomic studies: consider the exact disease, sample size, human samples versus model organisms, plan for analysis strategy before collecting data
+    * second section is focus on methods for omic integration: 
+    * third is future directions: 
+    
+    
+    
+    
 
 
 
-Test adding citation [@url:https://www.nature.com/articles/s41592-020-00999-z]
+List of Planned Figures:
+1. overview of how omic layers are related showing different 'flavors' of each omic analysis
+    * genomics
+    * transcriptomics 
+    * proteomics
+    * metabolomics
+    * microbiomics
 
-Test adding citation by PMID [@PMID:22610994]
+3. 
 
 
 

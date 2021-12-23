@@ -32,7 +32,14 @@ content/02.introduction.md:12:omic
 content/02.introduction.md:15:Multiomic
 content/02.introduction.md:19:omics
 content/02.introduction.md:20:omic
-content/02.introduction.md:21:omic
+content/02.introduction.md:21:multiomic
+content/02.introduction.md:22:omic
+content/02.introduction.md:32:omic
+content/02.introduction.md:32:omic
+content/02.introduction.md:34:transcriptomics
+content/02.introduction.md:35:proteomics
+content/02.introduction.md:36:metabolomics
+content/02.introduction.md:37:microbiomics
 content/03.sample-preparation.md:1:Omic
 content/03.sample-preparation.md:4:omics
 content/03.sample-preparation.md:6:proteomics
