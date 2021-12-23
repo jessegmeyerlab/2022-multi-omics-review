@@ -7,7 +7,7 @@ metabolome
 metabolomics
 microbiomics
 Momenzadeh
-multiomic
+Multiomic
 multiomics
 omes
 Omic
