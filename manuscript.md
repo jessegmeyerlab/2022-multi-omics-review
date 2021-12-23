@@ -52,9 +52,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/bab78863403f5557d931ed31ff550db75b0a5c7a/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/bab78863403f5557d931ed31ff550db75b0a5c7a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/bab78863403f5557d931ed31ff550db75b0a5c7a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/71906193102c825eb58fff9d269e9aeae8c2d3fa/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/71906193102c825eb58fff9d269e9aeae8c2d3fa/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/71906193102c825eb58fff9d269e9aeae8c2d3fa/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -76,9 +76,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/bab78863403f5557d931ed31ff550db75b0a5c7a/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/71906193102c825eb58fff9d269e9aeae8c2d3fa/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@bab7886](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/bab78863403f5557d931ed31ff550db75b0a5c7a)
+from [jessegmeyerlab/2022-multi-omics-review@7190619](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/71906193102c825eb58fff9d269e9aeae8c2d3fa)
 on December 23, 2021.
 </em></small>
 
@@ -210,6 +210,58 @@ In the context of multi-omics analyses, being able to perform multiple measureme
  
 
  
+
+
+## New developments of mass spectrometry-based methods for multi-omics 
+
+4.1 proteomics 
+ 
+4.1.1 Traditional standard methods for proteomics 
+
+(Remember to mention here)
+
+
+
+4.1.2 Direct infusion methods for proteome analysis (high-throughput methods)
+For current proteomic analysis methods, time-consuming chromatographic separation (typically requiring 30–60 min per sample or even longer) is required to protect the coverage, 
+repeatiability, robustness and quantification ability. However, with the rapid application of multiomics results in drug development, biomarker discovery studies and clinical 
+diagnosis. High-throughput methods is highly desirable to boost these fields forward.[@url:https://doi.org/10.1038/s41592-020-00999-z]
+
+(as a high-throughput method, MALDI based proteome analysis should be mentioned here, for example,  the application of MALDI for identification of species of bacteria and fungas
+through their specific peptides)
+
+
+4.2 metabolomics 
+To accurately and reliably interpret data derived from metabolomics and lipidomics studies, enormous mass spectrometry based methods were developed during the past decades.
+(remember to mention the application of MALDI for metabolites analysis, although the drawback of MALDI-tof is obvious.(
+
+Drawbacks: 1,the background of organic matrix in the low molecular weight region
+           2,the obtained information of MALDI is still very limited, no more than 300 identified metabolites, and also quantification is difficult.   
+           3,as a non-consistent ion source, currently TOF is the typical mass analyser for MALDI, which still suffers from relative low resolution. FTICR can connect MALDI )  
+
+
+4.2.2 Direct infusion mass spectrometry methods for high-throughput analysis of metabolites.()
+
+(direct infusion and so called flow injection MS. do not know the differences, seems saying the same thing.)
+
+[@url:https://www.nature.com/articles/nprot.2016.156]
+
+[@url:https://www.nature.com/articles/nprot.2016.156]
+
+4.4 integrated methods 
+Mass spectrometry (MS) serves as the centerpiece technology for proteome and metabolome analysis. To gain a better understanding of the multifaceted
+networks of myriad actions in complex organisms, integration of different multiomic layers is increasingly explored such as joint methods of different omics. 
+
+
+
+DOI: 10.1021/acs.analchem.0c05209
+
+[@url:https://pubs.acs.org/doi/10.1021/acs.analchem.0c04764?ref=pdf]
+
+[@url:https://pubs.acs.org/doi/10.1021/acs.analchem.0c05209?ref=pdf]
+
+
+
 
 
 ## References {.page_break_before}

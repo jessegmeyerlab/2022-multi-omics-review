@@ -51,3 +51,35 @@ content/03.sample-preparation.md:18:lipidomics
 content/03.sample-preparation.md:22:omics
 content/03.sample-preparation.md:22:prepatation
 content/03.sample-preparation.md:24:omics
+content/04. methodology.md:1:omics
+content/04. methodology.md:1:spectrometry
+content/04. methodology.md:3:proteomics
+content/04. methodology.md:5:proteomics
+content/04. methodology.md:11:proteome
+content/04. methodology.md:12:chromatographic
+content/04. methodology.md:12:proteomic
+content/04. methodology.md:13:biomarker
+content/04. methodology.md:13:multiomics
+content/04. methodology.md:13:repeatiability
+content/04. methodology.md:16:fungas
+content/04. methodology.md:16:MALDI
+content/04. methodology.md:16:MALDI
+content/04. methodology.md:16:proteome
+content/04. methodology.md:20:metabolomics
+content/04. methodology.md:21:lipidomics
+content/04. methodology.md:21:metabolomics
+content/04. methodology.md:21:spectrometry
+content/04. methodology.md:22:MALDI
+content/04. methodology.md:22:MALDI
+content/04. methodology.md:22:tof
+content/04. methodology.md:25:MALDI
+content/04. methodology.md:26:FTICR
+content/04. methodology.md:26:MALDI
+content/04. methodology.md:26:MALDI
+content/04. methodology.md:26:TOF
+content/04. methodology.md:29:spectrometry
+content/04. methodology.md:38:metabolome
+content/04. methodology.md:38:proteome
+content/04. methodology.md:38:spectrometry
+content/04. methodology.md:39:multiomic
+content/04. methodology.md:39:omics
