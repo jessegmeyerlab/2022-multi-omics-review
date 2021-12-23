@@ -52,9 +52,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a81ff1a84d9f60e61e377fabebe8024a5758330b/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a81ff1a84d9f60e61e377fabebe8024a5758330b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a81ff1a84d9f60e61e377fabebe8024a5758330b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/e8368b828582d22dcd640df9155c7099fba59ce0/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/e8368b828582d22dcd640df9155c7099fba59ce0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/e8368b828582d22dcd640df9155c7099fba59ce0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -76,9 +76,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a81ff1a84d9f60e61e377fabebe8024a5758330b/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/e8368b828582d22dcd640df9155c7099fba59ce0/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@a81ff1a](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/a81ff1a84d9f60e61e377fabebe8024a5758330b)
+from [jessegmeyerlab/2022-multi-omics-review@e8368b8](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/e8368b828582d22dcd640df9155c7099fba59ce0)
 on December 23, 2021.
 </em></small>
 
@@ -137,7 +137,9 @@ Studies that integrate unbiased measurements across at least two omics layers ar
 Topics:
 
 
-1. importance of omic measurement: Molecular profiles in biological systesms lead to macroscale phenotypes.
+\[Importance of omic measurement\]: A major goal of biomedical research is understanding how changes in biomolecule compositions of cells and tissues lead to disease phenotypes. The genome serves as a library of possible transcripts, some of which are instructions for proteins, and proteins act on metabolites. The genome thus indirectly determines the set of possible cellular states, and the exact cellular state depends on the endogenous and exogenous environmental cues. To understand how the genome connects to phenotype, measurement of there genome must be accompanied by measurement of downstream layers of the central dogma of biochemistry. Measurement of multiple omic layers is know as multiomics. 
+
+
 2. concept of multiomics
 3. What is proteomics
 4. what is metabolomics
