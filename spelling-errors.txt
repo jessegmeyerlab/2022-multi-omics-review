@@ -12,10 +12,10 @@ metabolome
 metabolomics
 microbiomics
 Momenzadeh
-Multiomic
+multiomic
 multiomics
 omes
-Omic
+omic
 omics
 phenotypes
 prepatation
@@ -24,7 +24,7 @@ proteomic
 proteomics
 repeatiability
 spectrometry
-TOF
+tof
 transcriptome
 transcriptomics
 XXXX

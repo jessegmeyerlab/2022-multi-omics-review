@@ -52,9 +52,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/71906193102c825eb58fff9d269e9aeae8c2d3fa/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/71906193102c825eb58fff9d269e9aeae8c2d3fa/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/71906193102c825eb58fff9d269e9aeae8c2d3fa/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/61d86586c03d0e09804303a0fb92122ce40e48ba/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/61d86586c03d0e09804303a0fb92122ce40e48ba/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/61d86586c03d0e09804303a0fb92122ce40e48ba/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -76,9 +76,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/71906193102c825eb58fff9d269e9aeae8c2d3fa/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/61d86586c03d0e09804303a0fb92122ce40e48ba/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@7190619](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/71906193102c825eb58fff9d269e9aeae8c2d3fa)
+from [jessegmeyerlab/2022-multi-omics-review@61d8658](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/61d86586c03d0e09804303a0fb92122ce40e48ba)
 on December 23, 2021.
 </em></small>
 
@@ -223,6 +223,7 @@ In the context of multi-omics analyses, being able to perform multiple measureme
 
 
 4.1.2 Direct infusion methods for proteome analysis (high-throughput methods)
+
 For current proteomic analysis methods, time-consuming chromatographic separation (typically requiring 30–60 min per sample or even longer) is required to protect the coverage, 
 repeatiability, robustness and quantification ability. However, with the rapid application of multiomics results in drug development, biomarker discovery studies and clinical 
 diagnosis. High-throughput methods is highly desirable to boost these fields forward.[@url:https://doi.org/10.1038/s41592-020-00999-z]
@@ -232,6 +233,7 @@ through their specific peptides)
 
 
 4.2 metabolomics 
+
 To accurately and reliably interpret data derived from metabolomics and lipidomics studies, enormous mass spectrometry based methods were developed during the past decades.
 (remember to mention the application of MALDI for metabolites analysis, although the drawback of MALDI-tof is obvious.(
 
@@ -248,13 +250,13 @@ Drawbacks: 1,the background of organic matrix in the low molecular weight region
 
 [@url:https://www.nature.com/articles/nprot.2016.156]
 
-4.4 integrated methods 
+4.4 integrated methods
+
 Mass spectrometry (MS) serves as the centerpiece technology for proteome and metabolome analysis. To gain a better understanding of the multifaceted
 networks of myriad actions in complex organisms, integration of different multiomic layers is increasingly explored such as joint methods of different omics. 
 
 
-
-DOI: 10.1021/acs.analchem.0c05209
+[@url:https://pubs.acs.org/doi/abs/10.1021/acs.analchem.0c05209]
 
 [@url:https://pubs.acs.org/doi/10.1021/acs.analchem.0c04764?ref=pdf]
 
