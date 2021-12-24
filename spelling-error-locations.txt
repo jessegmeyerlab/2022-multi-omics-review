@@ -96,3 +96,4 @@ content/05.example-studies.md:5:multiomic
 content/05.example-studies.md:5:spectrometry
 content/05.example-studies.md:6:mitoprotease
 content/05.example-studies.md:6:omic
+content/05.example-studies.md:14:omics
