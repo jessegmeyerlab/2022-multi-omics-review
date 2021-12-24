@@ -96,5 +96,15 @@ content/05.example-studies.md:5:multiomic
 content/05.example-studies.md:5:spectrometry
 content/05.example-studies.md:6:mitoprotease
 content/05.example-studies.md:6:omic
-content/05.example-studies.md:15:omics
-content/05.example-studies.md:17:omics
+content/05.example-studies.md:9:omics
+content/05.example-studies.md:10:Adenoma
+content/05.example-studies.md:10:adenomas
+content/05.example-studies.md:10:adrenocorticotropic
+content/05.example-studies.md:10:GC
+content/05.example-studies.md:10:metabolomics
+content/05.example-studies.md:10:Metabolomics
+content/05.example-studies.md:10:nLc
+content/05.example-studies.md:10:proteomics
+content/05.example-studies.md:10:Proteomics
+content/05.example-studies.md:20:omics
+content/05.example-studies.md:22:omics
