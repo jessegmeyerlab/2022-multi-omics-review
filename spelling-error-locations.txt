@@ -83,3 +83,16 @@ content/04. methodology.md:41:proteome
 content/04. methodology.md:41:spectrometry
 content/04. methodology.md:42:multiomic
 content/04. methodology.md:42:omics
+content/05.example-studies.md:1:omics
+content/05.example-studies.md:1:spectrometry
+content/05.example-studies.md:3:Cardiomyocytes
+content/05.example-studies.md:3:Metabolomics
+content/05.example-studies.md:3:Multiomics
+content/05.example-studies.md:3:Pluripotent
+content/05.example-studies.md:3:Proteomics
+content/05.example-studies.md:4:Biogenesis
+content/05.example-studies.md:4:omics
+content/05.example-studies.md:5:multiomic
+content/05.example-studies.md:5:spectrometry
+content/05.example-studies.md:6:mitoprotease
+content/05.example-studies.md:6:omic

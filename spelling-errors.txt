@@ -1,5 +1,7 @@
+Biogenesis
 biomarker
 biomolecule
+Cardiomyocytes
 chromatographic
 FTICR
 fungas
@@ -11,6 +13,7 @@ MALDI
 metabolome
 metabolomics
 microbiomics
+mitoprotease
 Momenzadeh
 multiomic
 multiomics
@@ -18,10 +21,12 @@ omes
 omic
 omics
 phenotypes
+Pluripotent
 prepatation
 proteome
 proteomic
-proteomics
+Proteomics
+Puf
 repeatiability
 spectrometry
 tof

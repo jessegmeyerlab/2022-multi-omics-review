@@ -6,7 +6,7 @@ keywords:
 - lipidomics
 - mass spectrometry
 lang: en-US
-date-meta: '2021-12-23'
+date-meta: '2021-12-24'
 author-meta:
 - Yuming Jiang
 - Quinn Dickinson
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Combinations of Proteomics, Metabolomics, and/or Lipidomics" />
-  <meta name="dc.date" content="2021-12-23" />
-  <meta name="citation_publication_date" content="2021-12-23" />
+  <meta name="dc.date" content="2021-12-24" />
+  <meta name="citation_publication_date" content="2021-12-24" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -52,9 +52,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/61d86586c03d0e09804303a0fb92122ce40e48ba/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/61d86586c03d0e09804303a0fb92122ce40e48ba/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/61d86586c03d0e09804303a0fb92122ce40e48ba/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/7d2a4cc753c5b072833fdba1b97ca9b6a7ee4b52/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/7d2a4cc753c5b072833fdba1b97ca9b6a7ee4b52/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/7d2a4cc753c5b072833fdba1b97ca9b6a7ee4b52/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -76,10 +76,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/61d86586c03d0e09804303a0fb92122ce40e48ba/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/7d2a4cc753c5b072833fdba1b97ca9b6a7ee4b52/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@61d8658](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/61d86586c03d0e09804303a0fb92122ce40e48ba)
-on December 23, 2021.
+from [jessegmeyerlab/2022-multi-omics-review@7d2a4cc](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/7d2a4cc753c5b072833fdba1b97ca9b6a7ee4b52)
+on December 24, 2021.
 </em></small>
 
 ## Authors
@@ -264,6 +264,21 @@ networks of myriad actions in complex organisms, integration of different multio
 
 
 
+
+
+## Examples of Mass spectrometry-based multi-omics applied to model organisms
+
+1. "Multiomics Method Enabled by Sequential Metabolomics and Proteomics for Human Pluripotent Stem-Cell-Derived Cardiomyocytes" [@url:https://pubs.acs.org/doi/full/10.1021/acs.jproteome.1c00611]: 
+2. Multi-omics Reveal Specific Targets of the RNA-Binding Protein Puf3p and Its Orchestration of Mitochondrial Biogenesis [@PMID:29248374]
+3. Mitochondrial protein functions elucidated by multiomic mass spectrometry [@PMID:27669165]
+4. Multi-omic mitoprotease profiling reveals role for oct1p [@PMID:29220658]
+
+
+
+
+For the data integration section:
+
+Argonaut data integration manuscript - [@URL:https://doi.org/10.1016/j.patter.2020.100122]
 
 
 ## References {.page_break_before}
