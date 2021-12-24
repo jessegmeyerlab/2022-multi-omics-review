@@ -18,7 +18,7 @@ Momenzadeh
 Multiomic
 multiomics
 omes
-omic
+Omic
 omics
 phenotypes
 Pluripotent
