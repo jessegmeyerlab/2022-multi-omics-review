@@ -6,7 +6,7 @@ keywords:
 - lipidomics
 - mass spectrometry
 lang: en-US
-date-meta: '2021-12-24'
+date-meta: '2021-12-25'
 author-meta:
 - Yuming Jiang
 - Quinn Dickinson
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
-  <meta name="dc.date" content="2021-12-24" />
-  <meta name="citation_publication_date" content="2021-12-24" />
+  <meta name="dc.date" content="2021-12-25" />
+  <meta name="citation_publication_date" content="2021-12-25" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -52,9 +52,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/49570e74526503431480f7c28dd6929c64706799/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/49570e74526503431480f7c28dd6929c64706799/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/49570e74526503431480f7c28dd6929c64706799/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/7cd5b94941cecd097c1bf06663345abdc8922d20/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/7cd5b94941cecd097c1bf06663345abdc8922d20/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/7cd5b94941cecd097c1bf06663345abdc8922d20/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -76,10 +76,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/49570e74526503431480f7c28dd6929c64706799/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/7cd5b94941cecd097c1bf06663345abdc8922d20/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@49570e7](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/49570e74526503431480f7c28dd6929c64706799)
-on December 24, 2021.
+from [jessegmeyerlab/2022-multi-omics-review@7cd5b94](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/7cd5b94941cecd097c1bf06663345abdc8922d20)
+on December 25, 2021.
 </em></small>
 
 ## Authors
@@ -179,7 +179,7 @@ List of Planned Figures:
 ## Sample Preparation for Multi-Omic Analysis
 
 
-Integrative multi-omics analysis is a powerful approach to study complex biological responses and has gained popularity in recent years. To avoid the potential 
+Integrative multi-omics analysis is a powerful approach to study complex biological responses and has gained popularity in recent years. 
 
 1, Sample preparation for proteomics 
 
@@ -199,7 +199,8 @@ Integrative multi-omics analysis is a powerful approach to study complex biologi
 
 3, Integrative sample prepatation for multi-omics 
 
-In the context of multi-omics analyses, being able to perform multiple measurements on the same sample can also decrease experimental variation.
+In the context of multi-omics analyses, being able to perform multiple measurements on the same sample can also decrease experimental variation. In this section, 
+we will review several integrative sample preparation technical advances that increased the capabilities of multiomic analysis. One important goal is to decrease the variation between different samples, ultimately to  . 
 
  
  [@url:https://pubs.rsc.org/en/content/articlelanding/2020/an/d0an01149e/unauth]
