@@ -3,6 +3,7 @@ Adenoma
 adenomas
 adrenocorticotropic
 allosteric
+amandamomenzadeh
 ATAC
 Biogenesis
 biomarker
@@ -37,16 +38,16 @@ microarrays
 mitoprotease
 Momenzadeh
 mRNA
-multiomic
-Multiomics
+Multiomic
+multiomics
 Myc
 nano
 nanoLC
 nanopore
 noncoding
 omes
-omic
-omics
+Omic
+Omics
 pacbio
 phenotypes
 phenotypic
@@ -67,7 +68,7 @@ quantitations
 repeatiability
 ribozymes
 RNAs
-Spectrometry
+spectrometry
 synergize
 tof
 transcriptome

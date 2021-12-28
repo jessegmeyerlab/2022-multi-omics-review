@@ -39,9 +39,8 @@ header-includes: |-
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="citation_author" content="Amanda Momenzadeh" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author_institution" content="Department of Biochemistry, Medical College of Wisconsin" />
+  <meta name="citation_author_orcid" content="0000-0002-8614-0690" />
   <meta name="citation_author" content="Jesse G. Meyer" />
   <meta name="citation_author_institution" content="Department of Biochemistry, Medical College of Wisconsin" />
   <meta name="citation_author_orcid" content="0000-0003-2753-3926" />
@@ -52,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fb5b4ed1891a87b729f1ffb07c822fc794c0191e/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fb5b4ed1891a87b729f1ffb07c822fc794c0191e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fb5b4ed1891a87b729f1ffb07c822fc794c0191e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a80044c4795ba6116d94f51fb39765ab9b091c89/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a80044c4795ba6116d94f51fb39765ab9b091c89/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a80044c4795ba6116d94f51fb39765ab9b091c89/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -76,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fb5b4ed1891a87b729f1ffb07c822fc794c0191e/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a80044c4795ba6116d94f51fb39765ab9b091c89/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@fb5b4ed](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/fb5b4ed1891a87b729f1ffb07c822fc794c0191e)
+from [jessegmeyerlab/2022-multi-omics-review@a80044c](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/a80044c4795ba6116d94f51fb39765ab9b091c89)
 on December 28, 2021.
 </em></small>
 
@@ -106,11 +105,11 @@ on December 28, 2021.
 
 + **Amanda Momenzadeh**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-8614-0690](https://orcid.org/0000-0002-8614-0690)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)<br>
+    [amandamomenzadeh](https://github.com/amandamomenzadeh)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Biochemistry, Medical College of Wisconsin
   </small>
 
 + **Jesse G. Meyer**<br>
