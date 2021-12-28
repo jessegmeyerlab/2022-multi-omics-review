@@ -44,7 +44,7 @@ nanoLC
 nanopore
 noncoding
 omes
-Omic
+omic
 omics
 pacbio
 phenotypes
@@ -65,7 +65,7 @@ quantitations
 repeatiability
 ribozymes
 RNAs
-spectrometry
+Spectrometry
 tof
 transcriptome
 transcriptomics
