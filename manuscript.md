@@ -52,9 +52,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d6f7979f9f0d6307fc3b8c623adc501b6d175e0d/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d6f7979f9f0d6307fc3b8c623adc501b6d175e0d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d6f7979f9f0d6307fc3b8c623adc501b6d175e0d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fb5b4ed1891a87b729f1ffb07c822fc794c0191e/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fb5b4ed1891a87b729f1ffb07c822fc794c0191e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fb5b4ed1891a87b729f1ffb07c822fc794c0191e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -76,9 +76,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d6f7979f9f0d6307fc3b8c623adc501b6d175e0d/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fb5b4ed1891a87b729f1ffb07c822fc794c0191e/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@d6f7979](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/d6f7979f9f0d6307fc3b8c623adc501b6d175e0d)
+from [jessegmeyerlab/2022-multi-omics-review@fb5b4ed](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/fb5b4ed1891a87b729f1ffb07c822fc794c0191e)
 on December 28, 2021.
 </em></small>
 
@@ -138,7 +138,7 @@ A major goal of biomedical research is understanding how changes in biomolecule 
 
 Most RNAs encode for proteins, and aside from noncoding RNA and ribozymes, most of the potential functions encoded in a genome are carried out by proteins. Although extensive research has nearly commoditized RNA measurment or transcriptomics [cite transcriptomics review], multiple studies have found poor correlation between proteins and their corresponding mRNA (add citations especially work from christine vogel, maybe add figure here showing poor correlation of CPTAC mRNA/protein data?). Therefore, functional understanding of a biological state demands quantitations of all proteins that are present. Large scale study of the proteins in a biological system is known as proteomics. Proteomics can include 
 
-Many argue that quantities of proteins is not enough. Protein functions are regulated in many ways, including allosteric feedback by metabolites and post-translational modifications such as phosphorylation, acylation, or proteolysis (cite something). A large proportion (what proportion are predicted to be metabolic?) of cellular proteins act on metabolites that are intermediates for cell proliferation or catabolism and energy production. The large scale measurement of the cellular metabolite pools is known as metabolomics, which is sometimes further separated into polar metabolomics and lipidomics. 
+Many argue that quantities of proteins is not enough. The presence of a protein does not necessarily equal the presence of that protein's function. Protein functions are regulated in many ways, including allosteric feedback by metabolites and post-translational modifications such as phosphorylation, acylation, or proteolysis (cite something). A large proportion (what proportion are predicted to be metabolic?) of cellular proteins act on metabolites that are intermediates for cell proliferation or catabolism and energy production. The large scale measurement of the cellular metabolite pools is known as metabolomics, which is sometimes further separated into polar metabolomics and lipidomics. 
 
 Measurement of multiple omic layers is know as multiomics. Mass spectrometry can measure peptides (or proteins, cite top down review) for proteomic analysis, and also metabolites for metabolomic analysis. Over the last decade we have seen an increase in measuring both proteomes and metabolomes from the same sample. Although multiomics can refer to measuring at least any two omes, throughout this review we focus on multiomic measurements between proteomes and metabolomes. 
 
