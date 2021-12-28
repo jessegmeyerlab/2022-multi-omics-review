@@ -30,7 +30,7 @@ Myc
 nano
 nanoLC
 omes
-omic
+Omic
 omics
 phenotypes
 Pluripotent
@@ -39,11 +39,11 @@ proteogenomics
 proteome
 Proteometabolomics
 proteomic
-proteomics
+Proteomics
 Puf
 repeatiability
 spectrometry
-TOF
+tof
 transcriptome
 transcriptomics
 tumorigenesis

@@ -52,9 +52,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/6f94269b13eb5f90e6c3f9945d5f5da063712073/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/6f94269b13eb5f90e6c3f9945d5f5da063712073/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/6f94269b13eb5f90e6c3f9945d5f5da063712073/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/82d6023a6bafb3e63b55beffbfc0fc3b243dd0d4/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/82d6023a6bafb3e63b55beffbfc0fc3b243dd0d4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/82d6023a6bafb3e63b55beffbfc0fc3b243dd0d4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -76,9 +76,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/6f94269b13eb5f90e6c3f9945d5f5da063712073/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/82d6023a6bafb3e63b55beffbfc0fc3b243dd0d4/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@6f94269](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/6f94269b13eb5f90e6c3f9945d5f5da063712073)
+from [jessegmeyerlab/2022-multi-omics-review@82d6023](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/82d6023a6bafb3e63b55beffbfc0fc3b243dd0d4)
 on December 28, 2021.
 </em></small>
 
@@ -281,12 +281,25 @@ networks of myriad actions in complex organisms, integration of different multio
   "Multi-omics data integration considerations and study design for biological systems and disease" [@PMID:33347526]
 
 
-## Examples of Mass spectrometry-based multi-omics applied to model organisms
+## Mass Spectrometry-based Multi-Omics Applied to Model Organisms
 
-1. "Multiomics Method Enabled by Sequential Metabolomics and Proteomics for Human Pluripotent Stem-Cell-Derived Cardiomyocytes" [@url:https://pubs.acs.org/doi/full/10.1021/acs.jproteome.1c00611]: 
-2. Multi-omics Reveal Specific Targets of the RNA-Binding Protein Puf3p and Its Orchestration of Mitochondrial Biogenesis [@PMID:29248374]
-3. Mitochondrial protein functions elucidated by multiomic mass spectrometry [@PMID:27669165]
-4. Multi-omic mitoprotease profiling reveals role for oct1p [@PMID:29220658]
+"Multiomics Method Enabled by Sequential Metabolomics and Proteomics for Human Pluripotent Stem-Cell-Derived Cardiomyocytes" [@url:https://pubs.acs.org/doi/full/10.1021/acs.jproteome.1c00611]: 
+
+
+Multi-omics Reveal Specific Targets of the RNA-Binding Protein Puf3p and Its Orchestration of Mitochondrial Biogenesis [@PMID:29248374]
+
+
+Mitochondrial protein functions elucidated by multiomic mass spectrometry [@PMID:27669165]
+
+
+Multi-omic mitoprotease profiling reveals role for oct1p [@PMID:29220658]
+
+
+"An integrative systems genetic analysis of mammalian lipid metabolism" [@PMID:30814737]
+* proteomics and lipidomics of mouse liver across 107 genetically different strains
+* 
+
+
 
 
 
