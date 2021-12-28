@@ -36,7 +36,7 @@ microarrays
 mitoprotease
 Momenzadeh
 mRNA
-Multiomic
+multiomic
 multiomics
 Myc
 nano
@@ -45,7 +45,7 @@ nanopore
 noncoding
 omes
 omic
-Omics
+omics
 pacbio
 phenotypes
 phenotypic

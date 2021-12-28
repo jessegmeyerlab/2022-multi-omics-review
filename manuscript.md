@@ -52,9 +52,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/c773ab9b0be78389fbfcdf6ba9602fc3247ffccc/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/c773ab9b0be78389fbfcdf6ba9602fc3247ffccc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/c773ab9b0be78389fbfcdf6ba9602fc3247ffccc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/da88a4a4ba01a8b05e2c0ecb3c60d0d7ff400338/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/da88a4a4ba01a8b05e2c0ecb3c60d0d7ff400338/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/da88a4a4ba01a8b05e2c0ecb3c60d0d7ff400338/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -76,9 +76,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/c773ab9b0be78389fbfcdf6ba9602fc3247ffccc/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/da88a4a4ba01a8b05e2c0ecb3c60d0d7ff400338/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@c773ab9](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/c773ab9b0be78389fbfcdf6ba9602fc3247ffccc)
+from [jessegmeyerlab/2022-multi-omics-review@da88a4a](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/da88a4a4ba01a8b05e2c0ecb3c60d0d7ff400338)
 on December 28, 2021.
 </em></small>
 
@@ -134,9 +134,9 @@ Studies that integrate unbiased measurements across at least two omics layers ar
 
 ## Introduction {.page_break_before}
 
-A major goal of biomedical research is understanding how changes in biomolecule compositions of cells and tissues lead to disease phenotypes. The genome serves as a library of possible transcripts, some of which are instructions for proteins, and proteins act on metabolites. The genome thus indirectly determines the set of possible cellular phenotypic states, and the exact cellular state at any given time depends on interaction between the genome with endogenous and exogenous environmental cues. To understand how the genome connects to phenotype, measurement of the genome must be accompanied by measurement of downstream layers of the central dogma of biochemistry. 
+A major goal of biomedical research is understanding how changes in biomolecule compositions of cells and tissues lead to disease phenotypes. The genome serves as a library of possible transcripts, some of which are instructions for proteins, and proteins act on metabolites. The genome thus indirectly determines the set of possible cellular phenotypic states, and the exact cellular state at any given time depends on interaction between the genome with endogenous and exogenous environmental cues. To understand how the genome connects to phenotype, measurement of the genome must be accompanied by measurement of downstream layers of the central dogma of biochemistry (Figure 1?). 
 
-Most RNAs encode for proteins, and aside from noncoding RNA and ribozymes, most of the potential functions encoded in a genome are carried out by proteins. Although extensive research has nearly commoditized RNA measurment or transcriptomics [cite transcriptomics review], multiple studies have found poor correlation between proteins and their corresponding mRNA (add multiple citations including christine vogel, maybe figure showing poor correlation of CPTAC data?). Therefore, functional understanding of a biological state demands quantitations of all proteins that are present. Large scale study of the proteins in a biological system is known as proteomics. Proteomics can include 
+Most RNAs encode for proteins, and aside from noncoding RNA and ribozymes, most of the potential functions encoded in a genome are carried out by proteins. Although extensive research has nearly commoditized RNA measurment or transcriptomics [cite transcriptomics review], multiple studies have found poor correlation between proteins and their corresponding mRNA (add citations especially work from christine vogel, maybe add figure here showing poor correlation of CPTAC mRNA/protein data?). Therefore, functional understanding of a biological state demands quantitations of all proteins that are present. Large scale study of the proteins in a biological system is known as proteomics. Proteomics can include 
 
 Many argue that quantities of proteins is not enough. Protein functions are regulated in many ways, including allosteric feedback by metabolites and post-translational modifications such as phosphorylation, acylation, or proteolysis (cite something). A large proportion (what proportion are predicted to be metabolic?) of cellular proteins act on metabolites that are intermediates for cell proliferation or catabolism and energy production. The large scale measurement of the cellular metabolite pools is known as metabolomics, which is sometimes further separated into polar metabolomics and lipidomics. 
 
