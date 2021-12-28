@@ -52,9 +52,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/eb437a3bd4fd722cfe1c011f7761f775976a7582/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/eb437a3bd4fd722cfe1c011f7761f775976a7582/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/eb437a3bd4fd722cfe1c011f7761f775976a7582/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fdcc783e64ccd0f102009f3cc16ac80aaaaca2eb/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fdcc783e64ccd0f102009f3cc16ac80aaaaca2eb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fdcc783e64ccd0f102009f3cc16ac80aaaaca2eb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -76,9 +76,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/eb437a3bd4fd722cfe1c011f7761f775976a7582/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fdcc783e64ccd0f102009f3cc16ac80aaaaca2eb/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@eb437a3](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/eb437a3bd4fd722cfe1c011f7761f775976a7582)
+from [jessegmeyerlab/2022-multi-omics-review@fdcc783](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/fdcc783e64ccd0f102009f3cc16ac80aaaaca2eb)
 on December 28, 2021.
 </em></small>
 
@@ -277,20 +277,8 @@ networks of myriad actions in complex organisms, integration of different multio
 4. Multi-omic mitoprotease profiling reveals role for oct1p [@PMID:29220658]
 
 
-Clinical multi-omics section:
-6. "Integration of Proteomics and Metabolomics Revealed Metabolite–Protein Networks in ACTH-Secreting Pituitary Adenoma" [@URL:https://doi.org/10.3389/fendo.2018.00678]: GC-MS for metabolomics, plus nLc-MS proteomics. Looking for changes in tumor on the pituitary gland (adrenocorticotropic hormone-secreting pituitary adenomas (ACTH-PA)). 
-7. 
 
 
-
-
-For the data integration section:
-
-  Argonaut data integration manuscript - [@URL:https://doi.org/10.1016/j.patter.2020.100122]
-
-  "Integration strategies of multi-omics data for machine learning analysis" [@PMID:34285775]
-
-  "Multi-omics data integration considerations and study design for biological systems and disease" [@PMID:33347526]
 
 
 

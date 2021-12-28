@@ -20,7 +20,7 @@ lipidomics
 MALDI
 metabolome
 metabolomic
-metabolomics
+Metabolomics
 microbiomics
 mitoprotease
 Momenzadeh
@@ -29,9 +29,8 @@ multiomics
 Myc
 nano
 nanoLC
-nLc
 omes
-omic
+Omic
 omics
 phenotypes
 Pluripotent

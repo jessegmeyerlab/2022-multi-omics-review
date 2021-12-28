@@ -86,31 +86,19 @@ content/04. methodology.md:41:proteome
 content/04. methodology.md:41:spectrometry
 content/04. methodology.md:42:multiomic
 content/04. methodology.md:42:omics
-content/05.example-studies.md:1:omics
-content/05.example-studies.md:1:spectrometry
-content/05.example-studies.md:3:Cardiomyocytes
-content/05.example-studies.md:3:Metabolomics
-content/05.example-studies.md:3:Multiomics
-content/05.example-studies.md:3:Pluripotent
-content/05.example-studies.md:3:Proteomics
-content/05.example-studies.md:4:Biogenesis
-content/05.example-studies.md:4:omics
-content/05.example-studies.md:5:multiomic
-content/05.example-studies.md:5:spectrometry
-content/05.example-studies.md:6:mitoprotease
-content/05.example-studies.md:6:omic
-content/05.example-studies.md:9:omics
-content/05.example-studies.md:10:Adenoma
-content/05.example-studies.md:10:adenomas
-content/05.example-studies.md:10:adrenocorticotropic
-content/05.example-studies.md:10:GC
-content/05.example-studies.md:10:metabolomics
-content/05.example-studies.md:10:Metabolomics
-content/05.example-studies.md:10:nLc
-content/05.example-studies.md:10:proteomics
-content/05.example-studies.md:10:Proteomics
-content/05.example-studies.md:20:omics
-content/05.example-studies.md:22:omics
+content/06.example-studies.md:1:omics
+content/06.example-studies.md:1:spectrometry
+content/06.example-studies.md:3:Cardiomyocytes
+content/06.example-studies.md:3:Metabolomics
+content/06.example-studies.md:3:Multiomics
+content/06.example-studies.md:3:Pluripotent
+content/06.example-studies.md:3:Proteomics
+content/06.example-studies.md:4:Biogenesis
+content/06.example-studies.md:4:omics
+content/06.example-studies.md:5:multiomic
+content/06.example-studies.md:5:spectrometry
+content/06.example-studies.md:6:mitoprotease
+content/06.example-studies.md:6:omic
 content/07.clinicalapplications.md:1:lipidomics
 content/07.clinicalapplications.md:1:metabolomics
 content/07.clinicalapplications.md:1:omics
