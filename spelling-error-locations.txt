@@ -86,6 +86,9 @@ content/04. methodology.md:41:proteome
 content/04. methodology.md:41:spectrometry
 content/04. methodology.md:42:multiomic
 content/04. methodology.md:42:omics
+content/05.data-integration.md:1:Omic
+content/05.data-integration.md:8:omics
+content/05.data-integration.md:10:omics
 content/06.example-studies.md:1:omics
 content/06.example-studies.md:1:spectrometry
 content/06.example-studies.md:3:Cardiomyocytes

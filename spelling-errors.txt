@@ -20,7 +20,7 @@ lipidomics
 MALDI
 metabolome
 metabolomic
-Metabolomics
+metabolomics
 microbiomics
 mitoprotease
 Momenzadeh
@@ -30,7 +30,7 @@ Myc
 nano
 nanoLC
 omes
-Omic
+omic
 omics
 phenotypes
 Pluripotent
@@ -43,7 +43,7 @@ proteomics
 Puf
 repeatiability
 spectrometry
-tof
+TOF
 transcriptome
 transcriptomics
 tumorigenesis
