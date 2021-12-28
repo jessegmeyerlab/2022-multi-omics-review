@@ -1,5 +1,9 @@
 # 2022 Team Review: Mass Spectrometry-based Multi-Omics
 
+[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://jessegmeyerlab.github.io/2022-multi-omics-review/)
+[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf)
+[![GitHub Actions Status](https://github.com/jessegmeyerlab/2022-multi-omics-review/workflows/Manubot/badge.svg)](https://github.com/jessegmeyerlab/2022-multi-omics-review/actions)
+
 [**view current web version of the review here**](https://jessegmeyerlab.github.io/2022-multi-omics-review/)
 
 [view current pdf version of the review here](https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf)
@@ -10,19 +14,20 @@
 
 **Purpose.** This document is for collecting relevant papers and a to-do list of concepts we want to cover and figures we want to make. We will use [Manubot](https://github.com/manubot/manubot) to write this manuscript and track contributions. See the remaining readme below this section or at the link above for more information about manubot. 
 
-**Authorship.** I will be the last author. We will decide author order for everyone else based on the contributions recorded via github. We can consider co-first or co-second author depending on contributions. Our target Journal is [Nature Methods](https://www.nature.com/nmeth/content). 
+**Authorship.** I (Jesse Meyer) will be the senior author and I will decide author order for everyone based on the contributions recorded via github. We can consider co-first or co-second author depending on contributions. Our target Journal is [Nature Methods](https://www.nature.com/nmeth/content). See [contributing](https://github.com/jessegmeyerlab/2022-multi-omics-review/blob/main/contributing.md) for guidance on how to contribute and what is expected of authors. 
 
-**Organizing and listing of papers** can be done via a shared google doc here https://docs.google.com/document/d/1eruym4GMuzwwJbnksKrqL0SAqpoDZDZEoXF4wLfPWeI/edit?usp=sharing
+**Organizing and listing of papers** can be done in the sections if they are still rough, but we prefer to add papers that should be covered as issues. 
 
-**Effort.** This review should take second priority after primary research projects. I recommend scheduling 1 hour per day to work on the review. Personally, I like to have that hour in the morning when I arrive, but you may prefer right before you leave or mid-day. You will be surprised with how much you get done if you spend 1 hour per day. Some days you might spend more or less time on this depending on how your primary project is progressing. I expect at least some progress by everyone each week. 
 
 **The focus** of this review is to provide an overview of mass spectrometry based multi-omics. Each of us will have different focus sections and roles:
-1. Introduction, other reviews, discussion, section editing, organization, and integration (Jesse)
-2. Data collection methods (Yuming)
-3. Data integration methods (Quinn)
-4. Clinical applications of multi-omics (Amanda)
+1. Introduction, other reviews, discussion, section editing, organization, and integration 
+2. sample preparation methods
+3. Data collection methods 
+4. Data integration methods 
+5. applications in model organisms (may discard)
+6. Clinical applications of multi-omics 
 
-**How to use this document.** The following pages contain lists of manuscripts to cover in each section along with notes about each paper. See the first papers I have added for examples. Anyone should feel free to add any paper you find to any section you think it fits in. Please check that the paper is not already listed there. 
+**How to use this document.** The following pages contain lists of manuscripts to cover in each section along with notes about each paper. See the first papers I have added for examples. Please feel free to find papers that go in sections other than the sections you are working on. Please check that the paper is not already listed there. 
 
 Writing a review is easy if you break it down into parts. 
 First do literature searches for papers relevant to the topic. Make lists of those papers with a few brief notes about each paper when you add it to the list. 
@@ -31,11 +36,8 @@ Convert and extend notes into a paragraph describing each paper. Highly related 
 While we are writing and collecting papers, think about what key concepts need to be represented by figures, or what meta-analyses we could easily do to summarize the field. Sketch those figures freehand or in drawing software and we can have a graphic designer finish them
 
 
+# original manubot readme: "Automated scholarly manuscripts on GitHub"
 
-
-# Automated scholarly manuscripts on GitHub
-
-<!-- usage note: edit the H1 title above to personalize the manuscript -->
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://jessegmeyerlab.github.io/2022-multi-omics-review/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf)
