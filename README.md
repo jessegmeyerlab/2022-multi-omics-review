@@ -8,13 +8,17 @@
 
 [view current pdf version of the review here](https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf)
 
-### project information
+### Project information
 
 
 
 **Purpose.** We are writing a collective review on multiomics!!! We are using [Manubot](https://github.com/manubot/manubot) to write this manuscript and track contributions. See the remaining readme below this section or at the link above for more information about manubot. 
 
-**Authorship.** I (Jesse Meyer) will be the senior author and I will decide author order for everyone based on the contributions recorded via github. We can consider co-first or co-second author depending on contributions. Our target Journal is [Nature Methods](https://www.nature.com/nmeth/content). See [contributing](https://github.com/jessegmeyerlab/2022-multi-omics-review/blob/main/contributing.md) for guidance on how to contribute and what is expected of authors. 
+**Authorship.** I (Jesse Meyer) will be the senior author and I will decide author order for everyone based on the contributions recorded via github. We can consider co-first or co-second author depending on contributions. Our target Journal is [Nature Methods](https://www.nature.com/nmeth/content). 
+
+**Rules.** 
+See [contributing](https://github.com/jessegmeyerlab/2022-multi-omics-review/blob/main/contributing.md) for guidance on how to contribute and what is expected of authors. 
+See also [the code of conduct](https://github.com/jessegmeyerlab/2022-multi-omics-review/blob/main/CODE_OF_CONDUCT.md) for participants. 
 
 **Organizing and listing of papers** can be done in the sections if they are still rough, but we prefer to add papers that should be covered as issues. 
 
