@@ -26,15 +26,14 @@ authors:
       - Department of Something, University of Whatever
       - Department of Whatever, University of Something
       
-  - github: janeroe
+  - github: amandamomenzadeh
     name: Amanda Momenzadeh
     initials: AM
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+    orcid: 0000-0002-8614-0690 
+    email: amomenzadeh@mcw.edu
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
-      
+      - Department of Biochemistry, Medical College of Wisconsin
+
       
   - github: jessegmeyerlab
     name: Jesse G. Meyer
