@@ -9,6 +9,7 @@ chromatographic
 FTICR
 fungas
 GC
+intergated
 janeroe
 jessegmeyerlab
 Jiang
@@ -30,7 +31,7 @@ Pluripotent
 prepatation
 proteome
 proteomic
-proteomics
+Proteomics
 Puf
 repeatiability
 spectrometry

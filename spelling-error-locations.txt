@@ -42,16 +42,18 @@ content/02.introduction.md:37:proteomics
 content/02.introduction.md:38:metabolomics
 content/02.introduction.md:39:microbiomics
 content/03.sample-preparation.md:1:Omic
-content/03.sample-preparation.md:4:omics
-content/03.sample-preparation.md:6:proteomics
-content/03.sample-preparation.md:10:metabolomics
+content/03.sample-preparation.md:3:intergated
+content/03.sample-preparation.md:3:omics
+content/03.sample-preparation.md:6:omics
+content/03.sample-preparation.md:8:proteomics
 content/03.sample-preparation.md:12:metabolomics
-content/03.sample-preparation.md:16:metabolomics
-content/03.sample-preparation.md:18:lipidomics
-content/03.sample-preparation.md:22:omics
-content/03.sample-preparation.md:22:prepatation
+content/03.sample-preparation.md:14:metabolomics
+content/03.sample-preparation.md:18:metabolomics
+content/03.sample-preparation.md:20:lipidomics
 content/03.sample-preparation.md:24:omics
-content/03.sample-preparation.md:25:multiomic
+content/03.sample-preparation.md:24:prepatation
+content/03.sample-preparation.md:26:omics
+content/03.sample-preparation.md:27:multiomic
 content/04. methodology.md:1:omics
 content/04. methodology.md:1:spectrometry
 content/04. methodology.md:3:proteomics
