@@ -12,28 +12,28 @@
 
 
 
-**Purpose.** This document is for collecting relevant papers and a to-do list of concepts we want to cover and figures we want to make. We will use [Manubot](https://github.com/manubot/manubot) to write this manuscript and track contributions. See the remaining readme below this section or at the link above for more information about manubot. 
+**Purpose.** We are writing a collective review on multiomics!!! We are using [Manubot](https://github.com/manubot/manubot) to write this manuscript and track contributions. See the remaining readme below this section or at the link above for more information about manubot. 
 
 **Authorship.** I (Jesse Meyer) will be the senior author and I will decide author order for everyone based on the contributions recorded via github. We can consider co-first or co-second author depending on contributions. Our target Journal is [Nature Methods](https://www.nature.com/nmeth/content). See [contributing](https://github.com/jessegmeyerlab/2022-multi-omics-review/blob/main/contributing.md) for guidance on how to contribute and what is expected of authors. 
 
 **Organizing and listing of papers** can be done in the sections if they are still rough, but we prefer to add papers that should be covered as issues. 
 
-
 **The focus** of this review is to provide an overview of mass spectrometry based multi-omics. Each of us will have different focus sections and roles:
-1. Introduction, other reviews, discussion, section editing, organization, and integration 
+1. Introduction
 2. sample preparation methods
 3. Data collection methods 
 4. Data integration methods 
 5. applications in model organisms (may discard)
 6. Clinical applications of multi-omics 
 
-**How to use this document.** The following pages contain lists of manuscripts to cover in each section along with notes about each paper. See the first papers I have added for examples. Please feel free to find papers that go in sections other than the sections you are working on. Please check that the paper is not already listed there. 
 
-Writing a review is easy if you break it down into parts. 
-First do literature searches for papers relevant to the topic. Make lists of those papers with a few brief notes about each paper when you add it to the list. 
-Organize the discovered papers into related groups
-Convert and extend notes into a paragraph describing each paper. Highly related papers can be grouped into the same paragraph. Remember to use one topic sentence at the beginning of the paragraph that gives the focus of that paragraph. 
-While we are writing and collecting papers, think about what key concepts need to be represented by figures, or what meta-analyses we could easily do to summarize the field. Sketch those figures freehand or in drawing software and we can have a graphic designer finish them
+Writing a review is easy if you break it down into parts!
+
+1. First do literature searches for papers relevant to the topic. Make lists of those papers with a few brief notes about each paper when you add it to the list. 
+2. Organize the discovered papers into related groups
+3. Convert and extend notes into a paragraph describing each paper. Highly related papers can be grouped into the same paragraph. 
+* Remember to use one topic sentence at the beginning of the paragraph that gives the focus of that paragraph. 
+4. While we are writing and collecting papers, think about what key concepts need to be represented by figures, or what meta-analyses we could easily do to summarize the field. Sketch those figures freehand or in drawing software and we can commision a graphic designer finish them.
 
 
 # original manubot readme: "Automated scholarly manuscripts on GitHub"
