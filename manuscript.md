@@ -52,9 +52,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ca7af949fd7d587fc5aed7374debd9431e70c504/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ca7af949fd7d587fc5aed7374debd9431e70c504/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ca7af949fd7d587fc5aed7374debd9431e70c504/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/eb437a3bd4fd722cfe1c011f7761f775976a7582/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/eb437a3bd4fd722cfe1c011f7761f775976a7582/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/eb437a3bd4fd722cfe1c011f7761f775976a7582/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -76,9 +76,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ca7af949fd7d587fc5aed7374debd9431e70c504/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/eb437a3bd4fd722cfe1c011f7761f775976a7582/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@ca7af94](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/ca7af949fd7d587fc5aed7374debd9431e70c504)
+from [jessegmeyerlab/2022-multi-omics-review@eb437a3](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/eb437a3bd4fd722cfe1c011f7761f775976a7582)
 on December 28, 2021.
 </em></small>
 
@@ -294,7 +294,16 @@ For the data integration section:
 
 
 
-## Clinical applications
+## Clinical applications of multi-omics (proteomics, metabolomics, and/or lipidomics)
+
+Literature currently focused on proteogenomics (integration of genome, transcriptome, and proteome)"Clinical multi-omics strategies for the effective cancer management"[@URL:https://doi.org/10.3389/fendo.2018.00678]
+
+Holistic approach has the ability to improve prognostics and predictive accuracy of disease phenotypes to aid in better treatment and prevention
+"Multi-omics Data Integration, Interpretation, and Its Application"[@URL: https://doi.org/10.1177/1177932219899051
+
+Approaches in cancer research:
+- "Integration of Proteomics and Metabolomics Revealed Metabolite–Protein Networks in ACTH-Secreting Pituitary Adenoma" [@URL:https://doi.org/10.3389/fendo.2018.00678]: gas chromatography-mass spectrometry (GC-MS) for metabolomics, plus nano liquid chromatography tandem-mass spectrometry(nanoLC-MS/MS) proteomics. Using metabolomic and proteomic data to identify signaling pathways important in metabolic regulation of tumorigenesis. Reveal biomarkers for disease diagnosis, monitoring and therapeutic targets. Looking for changes in tumor on the pituitary gland (adrenocorticotropic hormone-secreting pituitary adenomas (ACTH-PA)). Downregulated glycolysis and fatty acid synthesis. Myc signaling pathway significantly participated in the metabolic changes and tumorigenesis of ACTH-PA. 
+- "Proteometabolomics of bladder cancer: Current and future prospects" [@doi: 10.3233/CBM-150479]: simultaneous proteome and metabolome data from urine and blood for urinary bladder cancer patient surveillance to aid in early detection of bladder cancer
 
 
 ## References {.page_break_before}
