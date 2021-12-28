@@ -1,6 +1,8 @@
 # 2022 Team Review: Mass Spectrometry-based Multi-Omics
 
-[**view the current version of the review here**](https://jessegmeyerlab.github.io/2022-multi-omics-review/)
+[**view current web version of the review here**](https://jessegmeyerlab.github.io/2022-multi-omics-review/)
+
+[view current pdf version of the review here](https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf)
 
 ### project information
 
