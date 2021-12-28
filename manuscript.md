@@ -52,9 +52,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/07930f07edb8643909063b03c54c9e395d85598b/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/07930f07edb8643909063b03c54c9e395d85598b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/07930f07edb8643909063b03c54c9e395d85598b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d6f7979f9f0d6307fc3b8c623adc501b6d175e0d/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d6f7979f9f0d6307fc3b8c623adc501b6d175e0d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d6f7979f9f0d6307fc3b8c623adc501b6d175e0d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -76,9 +76,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/07930f07edb8643909063b03c54c9e395d85598b/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d6f7979f9f0d6307fc3b8c623adc501b6d175e0d/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@07930f0](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/07930f07edb8643909063b03c54c9e395d85598b)
+from [jessegmeyerlab/2022-multi-omics-review@d6f7979](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/d6f7979f9f0d6307fc3b8c623adc501b6d175e0d)
 on December 28, 2021.
 </em></small>
 
@@ -315,13 +315,13 @@ Multi-omic mitoprotease profiling reveals role for oct1p [@PMID:29220658]
 
 ## Clinical applications of multi-omics (proteomics, metabolomics, and/or lipidomics)
 
-Literature currently focused on proteogenomics (integration of genome, transcriptome, and proteome)"Clinical multi-omics strategies for the effective cancer management"[@URL:https://doi.org/10.3389/fendo.2018.00678]
+Literature currently focused on proteogenomics (integration of genome, transcriptome, and proteome)"Clinical multi-omics strategies for the effective cancer management"[@url:https://doi.org/10.3389/fendo.2018.00678]
 
 Holistic approach has the ability to improve prognostics and predictive accuracy of disease phenotypes to aid in better treatment and prevention
-"Multi-omics Data Integration, Interpretation, and Its Application"[@URL:https://doi.org/10.1177/1177932219899051
+"Multi-omics Data Integration, Interpretation, and Its Application"[@url:https://doi.org/10.1177/1177932219899051]
 
 Approaches in cancer research:
-- "Integration of Proteomics and Metabolomics Revealed Metabolite–Protein Networks in ACTH-Secreting Pituitary Adenoma" [@URL:https://doi.org/10.3389/fendo.2018.00678]: gas chromatography-mass spectrometry (GC-MS) for metabolomics, plus nano liquid chromatography tandem-mass spectrometry(nanoLC-MS/MS) proteomics. Using metabolomic and proteomic data to identify signaling pathways important in metabolic regulation of tumorigenesis. Reveal biomarkers for disease diagnosis, monitoring and therapeutic targets. Looking for changes in tumor on the pituitary gland (adrenocorticotropic hormone-secreting pituitary adenomas (ACTH-PA)). Downregulated glycolysis and fatty acid synthesis. Myc signaling pathway significantly participated in the metabolic changes and tumorigenesis of ACTH-PA. 
+- "Integration of Proteomics and Metabolomics Revealed Metabolite–Protein Networks in ACTH-Secreting Pituitary Adenoma" [@url:https://doi.org/10.3389/fendo.2018.00678]: gas chromatography-mass spectrometry (GC-MS) for metabolomics, plus nano liquid chromatography tandem-mass spectrometry(nanoLC-MS/MS) proteomics. Using metabolomic and proteomic data to identify signaling pathways important in metabolic regulation of tumorigenesis. Reveal biomarkers for disease diagnosis, monitoring and therapeutic targets. Looking for changes in tumor on the pituitary gland (adrenocorticotropic hormone-secreting pituitary adenomas (ACTH-PA)). Downregulated glycolysis and fatty acid synthesis. Myc signaling pathway significantly participated in the metabolic changes and tumorigenesis of ACTH-PA. 
 - "Proteometabolomics of bladder cancer: Current and future prospects" [@doi:10.3233/CBM-150479]: simultaneous proteome and metabolome data from urine and blood for urinary bladder cancer patient surveillance to aid in early detection of bladder cancer
 - "Integration of metabolomics and proteomics in multiple sclerosis: From biomarkers discovery to personalized medicine" [@URL:https://doi.org/10.1002/prca.201500083]: majority of biomarkers for MS are not sensitive and/or specific enough to be used for population screening. From the 188 proposed biomarker candidates for MS found in CSF, only 10 (5%) have been successfully verified, while 20 have been falsified. This is likely due to the inter-individual variation. Integrating omics approaches may help with this pitfall; proteomics in combination with the other “omics” may synergize to proide a more precise spectrum of information capable of better characterizing a phenotype. When proteins alone, metabolites alone and proteins and metabolites together were uploaded into the ingenuity pathway analysis (IPA) tool,  number of matched molecules for “proteins and metabolites” is higher than the sum of molecules matched in the separate searches.
 -"Urinary proteomics and metabolomics in the diagnosis of pediatric disorders" [@URL: https://doi.org/10.1002/prca.201400093]
