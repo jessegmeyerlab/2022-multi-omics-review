@@ -21,7 +21,7 @@ microbiomics
 mitoprotease
 Momenzadeh
 multiomic
-multiomics
+Multiomics
 nLc
 omes
 omic
