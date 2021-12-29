@@ -57,15 +57,15 @@ mixomics
 Momenzadeh
 mRNA
 Multiomic
-multiomics
+Multiomics
 Myc
 nano
 nanoLC
 nanopore
 noncoding
 omes
-omic
-omics
+Omic
+Omics
 orbitrap
 pacbio
 phenotypes
@@ -81,7 +81,7 @@ proteolysis
 proteome
 proteomes
 Proteometabolomics
-Proteomic
+proteomic
 proteomics
 PTMomics
 Puf
@@ -95,7 +95,7 @@ SOMAscan
 spectrometry
 synergize
 TMTpro
-TOF
+tof
 transcriptome
 transcriptomics
 translational
