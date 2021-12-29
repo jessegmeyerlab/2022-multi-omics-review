@@ -50,15 +50,15 @@ MALDI
 measurment
 metabolome
 metabolomes
-metabolomic
-metabolomics
+Metabolomic
+Metabolomics
 Metabolon
 microarrays
 mitoprotease
 mixomics
 Momenzadeh
 mRNA
-Multiomic
+multiomic
 multiomics
 Myc
 myeloma
@@ -95,7 +95,7 @@ RNAs
 RYGB
 Sera
 SOMAscan
-Spectrometry
+spectrometry
 synergize
 TMTpro
 tof
