@@ -10,8 +10,6 @@
 
 ### Project information
 
-
-
 **Purpose.** We are writing a collective review on multiomics!!! We are using [Manubot](https://github.com/manubot/manubot) to write this manuscript and track contributions. See the remaining readme below this section or at the link above for more information about manubot. 
 
 **Authorship.** I (Jesse Meyer) will be the senior author and I will decide author order for everyone based on the contributions recorded via github. We can consider co-first or co-second author depending on contributions. Our target Journal is [Nature Methods](https://www.nature.com/nmeth/content). 
@@ -39,20 +37,6 @@ Writing a review is easy if you break it down into parts!
 * Remember to use one topic sentence at the beginning of the paragraph that gives the focus of that paragraph. 
 4. While we are writing and collecting papers, think about what key concepts need to be represented by figures, or what meta-analyses we could easily do to summarize the field. Sketch those figures freehand or in drawing software and we can commision a graphic designer finish them.
 
-
-# original manubot readme: "Automated scholarly manuscripts on GitHub"
-
-
-[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://jessegmeyerlab.github.io/2022-multi-omics-review/)
-[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf)
-[![GitHub Actions Status](https://github.com/jessegmeyerlab/2022-multi-omics-review/workflows/Manubot/badge.svg)](https://github.com/jessegmeyerlab/2022-multi-omics-review/actions)
-
-## Manuscript description
-
-<!-- usage note: edit this section. -->
-
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
 
 ## Manubot
 
