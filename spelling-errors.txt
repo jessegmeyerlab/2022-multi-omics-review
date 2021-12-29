@@ -43,10 +43,11 @@ metabolomic
 metabolomics
 microarrays
 mitoprotease
+mixomics
 Momenzadeh
 mRNA
 multiomic
-multiomics
+Multiomics
 Myc
 nano
 nanoLC
@@ -77,7 +78,7 @@ quantitations
 repeatiability
 ribozymes
 RNAs
-Spectrometry
+spectrometry
 synergize
 TOF
 transcriptome
