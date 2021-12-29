@@ -130,11 +130,19 @@ content/04. methodology.md:28:MALDI
 content/04. methodology.md:28:MALDI
 content/04. methodology.md:28:TOF
 content/04. methodology.md:31:spectrometry
-content/04. methodology.md:41:metabolome
-content/04. methodology.md:41:proteome
-content/04. methodology.md:41:spectrometry
-content/04. methodology.md:42:multiomic
-content/04. methodology.md:42:omics
+content/04. methodology.md:34:biomarker
+content/04. methodology.md:34:chromatographic
+content/04. methodology.md:34:clinial
+content/04. methodology.md:34:metabolomic
+content/04. methodology.md:34:metabolomic
+content/04. methodology.md:34:metabolomics
+content/04. methodology.md:41:Multiomics
+content/04. methodology.md:41:Spectrometry
+content/04. methodology.md:43:metabolome
+content/04. methodology.md:43:proteome
+content/04. methodology.md:43:spectrometry
+content/04. methodology.md:44:multiomic
+content/04. methodology.md:44:omics
 content/05.data-integration.md:1:Omic
 content/05.data-integration.md:8:omics
 content/05.data-integration.md:10:omics
