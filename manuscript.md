@@ -6,7 +6,7 @@ keywords:
 - lipidomics
 - mass spectrometry
 lang: en-US
-date-meta: '2021-12-28'
+date-meta: '2021-12-29'
 author-meta:
 - Yuming Jiang
 - Quinn Dickinson
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
-  <meta name="dc.date" content="2021-12-28" />
-  <meta name="citation_publication_date" content="2021-12-28" />
+  <meta name="dc.date" content="2021-12-29" />
+  <meta name="citation_publication_date" content="2021-12-29" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a80044c4795ba6116d94f51fb39765ab9b091c89/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a80044c4795ba6116d94f51fb39765ab9b091c89/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a80044c4795ba6116d94f51fb39765ab9b091c89/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/653f4bb890aa9e89c5a07d08636de0553290b02f/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/653f4bb890aa9e89c5a07d08636de0553290b02f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/653f4bb890aa9e89c5a07d08636de0553290b02f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,10 +75,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a80044c4795ba6116d94f51fb39765ab9b091c89/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/653f4bb890aa9e89c5a07d08636de0553290b02f/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@a80044c](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/a80044c4795ba6116d94f51fb39765ab9b091c89)
-on December 28, 2021.
+from [jessegmeyerlab/2022-multi-omics-review@653f4bb](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/653f4bb890aa9e89c5a07d08636de0553290b02f)
+on December 29, 2021.
 </em></small>
 
 ## Authors
@@ -324,6 +324,12 @@ Approaches in cancer research:
 - "Proteometabolomics of bladder cancer: Current and future prospects" [@doi:10.3233/CBM-150479]: simultaneous proteome and metabolome data from urine and blood for urinary bladder cancer patient surveillance to aid in early detection of bladder cancer
 - "Integration of metabolomics and proteomics in multiple sclerosis: From biomarkers discovery to personalized medicine" [@URL:https://doi.org/10.1002/prca.201500083]: majority of biomarkers for MS are not sensitive and/or specific enough to be used for population screening. From the 188 proposed biomarker candidates for MS found in CSF, only 10 (5%) have been successfully verified, while 20 have been falsified. This is likely due to the inter-individual variation. Integrating omics approaches may help with this pitfall; proteomics in combination with the other “omics” may synergize to proide a more precise spectrum of information capable of better characterizing a phenotype. When proteins alone, metabolites alone and proteins and metabolites together were uploaded into the ingenuity pathway analysis (IPA) tool,  number of matched molecules for “proteins and metabolites” is higher than the sum of molecules matched in the separate searches.
 -"Urinary proteomics and metabolomics in the diagnosis of pediatric disorders" [@URL: https://doi.org/10.1002/prca.201400093]
+
+
+multi-omics for covid-19 research
+[@doi:https://doi.org/10.1016/j.cell.2020.05.032]
+
+
 
 
 ## References {.page_break_before}

@@ -14,6 +14,7 @@ catabolism
 CETSA
 chromatographic
 commoditized
+covid
 CPTAC
 CSF
 dataset
@@ -47,7 +48,7 @@ nanopore
 noncoding
 omes
 Omic
-Omics
+omics
 pacbio
 phenotypes
 phenotypic
@@ -61,16 +62,16 @@ proteome
 proteomes
 Proteometabolomics
 proteomic
-proteomics
+Proteomics
 PTMomics
 Puf
 quantitations
 repeatiability
 ribozymes
 RNAs
-spectrometry
+Spectrometry
 synergize
-tof
+TOF
 transcriptome
 transcriptomics
 translational

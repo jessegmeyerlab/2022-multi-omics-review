@@ -192,3 +192,5 @@ content/07.clinicalapplications.md:11:proteomics
 content/07.clinicalapplications.md:11:synergize
 content/07.clinicalapplications.md:12:metabolomics
 content/07.clinicalapplications.md:12:proteomics
+content/07.clinicalapplications.md:15:covid
+content/07.clinicalapplications.md:15:omics
