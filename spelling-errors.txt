@@ -45,8 +45,8 @@ microarrays
 mitoprotease
 Momenzadeh
 mRNA
-Multiomic
-Multiomics
+multiomic
+multiomics
 Myc
 nano
 nanoLC
@@ -54,7 +54,7 @@ nanopore
 noncoding
 omes
 omic
-omics
+Omics
 orbitrap
 pacbio
 phenotypes
@@ -77,7 +77,7 @@ quantitations
 repeatiability
 ribozymes
 RNAs
-spectrometry
+Spectrometry
 synergize
 TOF
 transcriptome
