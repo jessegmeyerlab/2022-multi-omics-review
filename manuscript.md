@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/653f4bb890aa9e89c5a07d08636de0553290b02f/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/653f4bb890aa9e89c5a07d08636de0553290b02f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/653f4bb890aa9e89c5a07d08636de0553290b02f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a45be50466ac04c6f703ee93cd12113129069b08/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a45be50466ac04c6f703ee93cd12113129069b08/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a45be50466ac04c6f703ee93cd12113129069b08/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/653f4bb890aa9e89c5a07d08636de0553290b02f/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a45be50466ac04c6f703ee93cd12113129069b08/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@653f4bb](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/653f4bb890aa9e89c5a07d08636de0553290b02f)
+from [jessegmeyerlab/2022-multi-omics-review@a45be50](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/a45be50466ac04c6f703ee93cd12113129069b08)
 on December 29, 2021.
 </em></small>
 
@@ -189,6 +189,8 @@ sample preparation for intergated multi-omics is a key factor for acquiring repe
 Integrative multi-omics analysis is a powerful approach to study complex biological responses and has gained popularity in recent years. 
 
 1, Sample preparation for proteomics 
+Protein preparation for MS analysis can be accomplished by many methods, so it is important to understand the steps leading to analysis. While intact proteins are typically studied by gel electrophoresis, the most common mass spectrometry workflows for complex protein samples analyze peptides, which are easier than proteins to fractionate by LC. Peptides also ionize and fragment more efficiently than whole proteins, resulting in spectra that are easier to interpret for protein identification. Peptide preparation involves reduction and alkylation of cysteines, digestion of the sample into peptides, desalting and concentration of the peptides and final analysis of these peptides by ionization (e.g., ESI) plus orbitrap-based MS.
+
 
 
 
