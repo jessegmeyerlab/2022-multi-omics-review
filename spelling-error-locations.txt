@@ -246,3 +246,10 @@ content/07.clinicalapplications.md:12:RYGB
 content/07.clinicalapplications.md:12:SOMAscan
 content/07.clinicalapplications.md:12:spectrometry
 content/07.clinicalapplications.md:12:UPLC
+content/07.clinicalapplications.md:13:lipidomics
+content/07.clinicalapplications.md:13:lipidomics
+content/07.clinicalapplications.md:13:metabolome
+content/07.clinicalapplications.md:13:myeloma
+content/07.clinicalapplications.md:13:proteomics
+content/07.clinicalapplications.md:13:proteomics
+content/07.clinicalapplications.md:13:untargeted
