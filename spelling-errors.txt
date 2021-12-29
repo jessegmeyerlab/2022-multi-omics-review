@@ -10,6 +10,7 @@ Biogenesis
 biomarker
 biomarkers
 biomolecule
+biomolecules
 Cardiomyocytes
 catabolism
 CETSA
@@ -30,7 +31,6 @@ fungas
 GC
 glycolysis
 interactomics
-intergated
 janeroe
 jessegmeyerlab
 Jiang
@@ -45,8 +45,8 @@ microarrays
 mitoprotease
 Momenzadeh
 mRNA
-multiomic
-multiomics
+Multiomic
+Multiomics
 Myc
 nano
 nanoLC
@@ -59,6 +59,7 @@ orbitrap
 pacbio
 phenotypes
 phenotypic
+physicochemical
 Pluripotent
 prepartion
 prepatation
@@ -78,7 +79,7 @@ ribozymes
 RNAs
 spectrometry
 synergize
-tof
+TOF
 transcriptome
 transcriptomics
 translational

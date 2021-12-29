@@ -84,25 +84,29 @@ content/02.introduction.md:44:lipidomics
 content/02.introduction.md:44:metabolomics
 content/02.introduction.md:44:metabolomics
 content/03.sample-preparation.md:1:Omic
-content/03.sample-preparation.md:3:intergated
-content/03.sample-preparation.md:3:omics
-content/03.sample-preparation.md:6:omics
-content/03.sample-preparation.md:8:proteomics
-content/03.sample-preparation.md:9:alkylation
-content/03.sample-preparation.md:9:cysteines
-content/03.sample-preparation.md:9:electrophoresis
-content/03.sample-preparation.md:9:ESI
-content/03.sample-preparation.md:9:fractionate
-content/03.sample-preparation.md:9:orbitrap
-content/03.sample-preparation.md:9:spectrometry
+content/03.sample-preparation.md:3:biomolecules
+content/03.sample-preparation.md:3:biomolecules
+content/03.sample-preparation.md:3:metabolomics
+content/03.sample-preparation.md:3:omic
+content/03.sample-preparation.md:3:physicochemical
+content/03.sample-preparation.md:3:proteomics
+content/03.sample-preparation.md:3:spectrometry
+content/03.sample-preparation.md:5:proteomics
+content/03.sample-preparation.md:7:alkylation
+content/03.sample-preparation.md:7:cysteines
+content/03.sample-preparation.md:7:electrophoresis
+content/03.sample-preparation.md:7:ESI
+content/03.sample-preparation.md:7:fractionate
+content/03.sample-preparation.md:7:orbitrap
+content/03.sample-preparation.md:7:spectrometry
+content/03.sample-preparation.md:12:metabolomics
 content/03.sample-preparation.md:14:metabolomics
-content/03.sample-preparation.md:16:metabolomics
-content/03.sample-preparation.md:20:metabolomics
-content/03.sample-preparation.md:22:lipidomics
+content/03.sample-preparation.md:18:metabolomics
+content/03.sample-preparation.md:20:lipidomics
+content/03.sample-preparation.md:24:omics
+content/03.sample-preparation.md:24:prepatation
 content/03.sample-preparation.md:26:omics
-content/03.sample-preparation.md:26:prepatation
-content/03.sample-preparation.md:28:omics
-content/03.sample-preparation.md:29:multiomic
+content/03.sample-preparation.md:27:multiomic
 content/04. methodology.md:1:omics
 content/04. methodology.md:1:spectrometry
 content/04. methodology.md:3:proteomics

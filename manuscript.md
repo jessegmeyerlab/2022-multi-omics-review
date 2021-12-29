@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/365dd3aeef257fe1a8e7a1c67c3aecd6aba00b07/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/365dd3aeef257fe1a8e7a1c67c3aecd6aba00b07/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/365dd3aeef257fe1a8e7a1c67c3aecd6aba00b07/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d51300c3ddd2860e974a66e24cc2d15ecf91597c/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d51300c3ddd2860e974a66e24cc2d15ecf91597c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d51300c3ddd2860e974a66e24cc2d15ecf91597c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/365dd3aeef257fe1a8e7a1c67c3aecd6aba00b07/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d51300c3ddd2860e974a66e24cc2d15ecf91597c/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@365dd3a](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/365dd3aeef257fe1a8e7a1c67c3aecd6aba00b07)
+from [jessegmeyerlab/2022-multi-omics-review@d51300c](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/d51300c3ddd2860e974a66e24cc2d15ecf91597c)
 on December 29, 2021.
 </em></small>
 
@@ -183,12 +183,10 @@ List of Planned Figures:
 
 ## Sample Preparation for Multi-Omic Analysis
 
-sample preparation for intergated multi-omics is a key factor for acquiring repeatable and robust results. 
-
-
-Integrative multi-omics analysis is a powerful approach to study complex biological responses and has gained popularity in recent years. 
+As with any methodology, the first but also a crucial step for analytical success is proper sample preparation. This is particularly important for mass spectrometry-based multi-omic analysis, the selected sample preparation strategy is a key determinant for information that will be obtained. Given the great diversity and complexity of biological samples being tested in proteomics and metabolomics, even subtle differences in sample preparation methods can have profound effects on the types of molecules being extracted, which further affect the retention time, signal stability and ionization efficiency. For example, analysis of different types of biomolecules requires specific sample extraction procedures. The most efficient extraction protocols often only cover a restricted type of biomolecules due to their different physicochemical properties. 
 
 1, Sample preparation for proteomics 
+
 Protein preparation for MS analysis can be accomplished by many methods, so it is important to understand the steps leading to analysis. While intact proteins are typically studied by gel electrophoresis, the most common mass spectrometry workflows for complex protein samples analyze peptides, which are easier than proteins to fractionate by LC. Peptides also ionize and fragment more efficiently than whole proteins, resulting in spectra that are easier to interpret for protein identification. Peptide preparation involves reduction and alkylation of cysteines, digestion of the sample into peptides, desalting and concentration of the peptides and final analysis of these peptides by ionization (e.g., ESI) plus orbitrap-based MS.
 
 
