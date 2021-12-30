@@ -107,6 +107,18 @@ content/03.sample-preparation.md:24:omics
 content/03.sample-preparation.md:24:prepatation
 content/03.sample-preparation.md:26:omics
 content/03.sample-preparation.md:27:multiomic
+content/03.sample-preparation.md:35:Multiomic
+content/03.sample-preparation.md:37:Metabolomics
+content/03.sample-preparation.md:37:Proteomics
+content/03.sample-preparation.md:39:Lipidomic
+content/03.sample-preparation.md:39:Metabolomic
+content/03.sample-preparation.md:39:MPLEx
+content/03.sample-preparation.md:39:Proteomic
+content/03.sample-preparation.md:41:metabolomics
+content/03.sample-preparation.md:41:omic
+content/03.sample-preparation.md:41:proteomics
+content/03.sample-preparation.md:41:spectrometry
+content/03.sample-preparation.md:43:Omics
 content/04. methodology.md:1:omics
 content/04. methodology.md:1:spectrometry
 content/04. methodology.md:3:proteomics

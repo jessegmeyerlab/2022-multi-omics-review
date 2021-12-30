@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2eeff244ec11428c9cf6ce495544bd4696ac1cf6/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2eeff244ec11428c9cf6ce495544bd4696ac1cf6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2eeff244ec11428c9cf6ce495544bd4696ac1cf6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/875c2417b22303caf02c500aaec1d363e195f2f8/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/875c2417b22303caf02c500aaec1d363e195f2f8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/875c2417b22303caf02c500aaec1d363e195f2f8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2eeff244ec11428c9cf6ce495544bd4696ac1cf6/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/875c2417b22303caf02c500aaec1d363e195f2f8/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@2eeff24](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/2eeff244ec11428c9cf6ce495544bd4696ac1cf6)
+from [jessegmeyerlab/2022-multi-omics-review@875c241](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/875c2417b22303caf02c500aaec1d363e195f2f8)
 on December 30, 2021.
 </em></small>
 
@@ -212,9 +212,23 @@ we will review several integrative sample preparation technical advances that in
  
  [@url:https://pubs.rsc.org/en/content/articlelanding/2020/an/d0an01149e/unauth]
  
- [@url:https://journals.asm.org/doi/10.1128/mSystems.00043-16]
- 
  [@url:https://doi.org/10.3389/fgene.2021.635971]
+ 
+ 
+ -"An Integrated, High-Throughput Strategy for Multiomic Systems Level Analysis"  [@doi:10.1021/acs.jproteome.8b00302]
+ 
+ -"Detergent-Free Simultaneous Sample Preparation Method for Proteomics and Metabolomics" [@doi:https://doi.org/10.1021/acs.jproteome.9b00662]
+ 
+ -"MPLEx: a Robust and Universal Protocol for Single-Sample Integrative Proteomic, Metabolomic, and Lipidomic Analyses" [@doi:https://doi.org/10.1128/mSystems.00043-16]
+ 
+ -"Single-platform ‘multi-omic’ profiling: unified mass spectrometry and computational workflows for integrative proteomics–metabolomics analysis" [@doi:10.1039/C8MO00136G] 
+ 
+ -"Three-in-One Simultaneous Extraction of Proteins, Metabolites and Lipids for Multi-Omics" [@doi:https://doi.org/10.3389/fgene.2021.635971]
+ 
+ -
+ 
+ 
+ 
  
 
  
