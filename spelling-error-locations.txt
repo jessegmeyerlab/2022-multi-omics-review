@@ -253,7 +253,9 @@ content/07.clinical-applications.md:13:untargeted
 content/07.clinical-applications.md:14:metabolome
 content/07.clinical-applications.md:14:proteome
 content/07.clinical-applications.md:14:Proteometabolomics
-content/07.clinical-applications.md:17:covid
-content/07.clinical-applications.md:17:omics
-content/07.clinical-applications.md:21:Guo
-content/07.clinical-applications.md:23:Jaitovich
+content/07.clinical-applications.md:16:Metabolomics
+content/07.clinical-applications.md:16:Proteomics
+content/07.clinical-applications.md:25:covid
+content/07.clinical-applications.md:25:omics
+content/07.clinical-applications.md:29:Guo
+content/07.clinical-applications.md:31:Jaitovich

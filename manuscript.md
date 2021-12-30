@@ -6,7 +6,7 @@ keywords:
 - lipidomics
 - mass spectrometry
 lang: en-US
-date-meta: '2021-12-29'
+date-meta: '2021-12-30'
 author-meta:
 - Yuming Jiang
 - Quinn Dickinson
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
-  <meta name="dc.date" content="2021-12-29" />
-  <meta name="citation_publication_date" content="2021-12-29" />
+  <meta name="dc.date" content="2021-12-30" />
+  <meta name="citation_publication_date" content="2021-12-30" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/16ed5aec8b314d460eaa95a22bcf5dc05663d2db/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/16ed5aec8b314d460eaa95a22bcf5dc05663d2db/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/16ed5aec8b314d460eaa95a22bcf5dc05663d2db/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2eeff244ec11428c9cf6ce495544bd4696ac1cf6/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2eeff244ec11428c9cf6ce495544bd4696ac1cf6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2eeff244ec11428c9cf6ce495544bd4696ac1cf6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,10 +75,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/16ed5aec8b314d460eaa95a22bcf5dc05663d2db/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/2eeff244ec11428c9cf6ce495544bd4696ac1cf6/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@16ed5ae](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/16ed5aec8b314d460eaa95a22bcf5dc05663d2db)
-on December 29, 2021.
+from [jessegmeyerlab/2022-multi-omics-review@2eeff24](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/2eeff244ec11428c9cf6ce495544bd4696ac1cf6)
+on December 30, 2021.
 </em></small>
 
 ## Authors
@@ -334,6 +334,14 @@ Approaches in cancer research:
 - "High-throughput mediation analysis of human proteome and metabolome identifies mediators of post-bariatric surgical diabetes control"[@url:https://doi.org/10.1038/s41467-021-27289-2] patients with type 2 diabetes  randomized to RYGB vs nonsurgical diabetes/weight management; fasting plasma proteome and metabolome were assayed up to 3 years. Plasma proteome profiling was performed using the high-throughput DNA aptamer-based SOMAscan assay platform. Plasma metabolomics were profiled using a commercial semi-quantitative mass spectrometry-based platform (Metabolon, Inc.)  using UPLC-MS/MS. Main mediator of improved glycemic control was GHR, which was reduced 3 months after RYGB. GH signaling = diabetogenic effects.
 - "Concurrent lipidomics and proteomics on malignant plasma cells from multiple myeloma patients: Probing the lipid metabolome" [@url:https://doi.org/10.1371/journal.pone.0227455] comparing targeted and untargeted lipidomics and proteomics between relapsed and newly diagnosed MM patients
 - "Proteometabolomics of bladder cancer: Current and future prospects" [@doi:10.3233/CBM-150479]: simultaneous proteome and metabolome data from urine and blood for urinary bladder cancer patient surveillance to aid in early detection of bladder cancer
+- 
+- "Grade-Dependent Metabolic Reprogramming in Kidney Cancer Revealed by Combined Proteomics and Metabolomics Analysis"   [@doi:10.1158/0008-5472.CAN-14-1703]
+- 
+- "L-Arginine Modulates T Cell Metabolism and Enhances Survival and Anti-tumor Activity"  [@doi:http://dx.doi.org/10.1016/j.cell.2016.09.031]
+
+
+
+
 
 
 ### multi-omics for covid-19 research
