@@ -163,6 +163,7 @@ content/05.data-integration.md:1:Omic
 content/05.data-integration.md:8:omics
 content/05.data-integration.md:10:omics
 content/05.data-integration.md:12:mixomics
+content/05.data-integration.md:16:omics
 content/06.example-studies-model-organisms.md:1:Omics
 content/06.example-studies-model-organisms.md:1:Spectrometry
 content/06.example-studies-model-organisms.md:3:Cardiomyocytes

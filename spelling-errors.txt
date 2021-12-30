@@ -19,7 +19,7 @@ CETSA
 chromatographic
 clinial
 commoditized
-COVID
+covid
 CPTAC
 CSF
 cysteines
@@ -51,7 +51,7 @@ MALDI
 measurment
 metabolome
 metabolomes
-Metabolomic
+metabolomic
 metabolomics
 Metabolon
 microarrays
@@ -86,7 +86,7 @@ proteolysis
 proteome
 proteomes
 Proteometabolomics
-Proteomic
+proteomic
 proteomics
 PTMomics
 Puf
@@ -97,7 +97,7 @@ RNAs
 RYGB
 Sera
 SOMAscan
-Spectrometry
+spectrometry
 synergize
 TMTpro
 tof
