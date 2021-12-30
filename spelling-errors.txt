@@ -19,7 +19,7 @@ CETSA
 chromatographic
 clinial
 commoditized
-COVID
+covid
 CPTAC
 CSF
 cysteines
@@ -52,7 +52,7 @@ measurment
 metabolome
 metabolomes
 Metabolomic
-Metabolomics
+metabolomics
 Metabolon
 microarrays
 mitoprotease
@@ -69,8 +69,8 @@ nanoLC
 nanopore
 noncoding
 omes
-omic
-Omics
+Omic
+omics
 orbitrap
 pacbio
 phenotypes
@@ -86,7 +86,7 @@ proteolysis
 proteome
 proteomes
 Proteometabolomics
-proteomic
+Proteomic
 proteomics
 PTMomics
 Puf

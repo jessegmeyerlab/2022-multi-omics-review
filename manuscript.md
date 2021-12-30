@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/0d73ac84d7ee234655eb4cc09ba10698332551f2/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/0d73ac84d7ee234655eb4cc09ba10698332551f2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/0d73ac84d7ee234655eb4cc09ba10698332551f2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/00e581f20dc19799f0e06ab6d98b2946712f0ebb/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/00e581f20dc19799f0e06ab6d98b2946712f0ebb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/00e581f20dc19799f0e06ab6d98b2946712f0ebb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/0d73ac84d7ee234655eb4cc09ba10698332551f2/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/00e581f20dc19799f0e06ab6d98b2946712f0ebb/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@0d73ac8](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/0d73ac84d7ee234655eb4cc09ba10698332551f2)
+from [jessegmeyerlab/2022-multi-omics-review@00e581f](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/00e581f20dc19799f0e06ab6d98b2946712f0ebb)
 on December 30, 2021.
 </em></small>
 
@@ -277,7 +277,10 @@ In typical metabolomic analysis workflow, MS is typically coupled with liquid or
 4.4 Integrated Strategy for Mass Spectrometry-Based Multiomics
 
 Mass spectrometry (MS) serves as the centerpiece technology for proteome and metabolome analysis. To gain a better understanding of the multifaceted
-networks of myriad actions in complex organisms, integration of different multiomic layers is increasingly explored such as joint methods of different omics. 
+networks of myriad actions in complex organisms, integration of different multiomic layers is increasingly explored such as joint methods of different omics.
+
+
+"Multiomics Method Enabled by Sequential Metabolomics and Proteomics for Human Pluripotent Stem-Cell-Derived Cardiomyocytes"  [@doi:]
 
 
 
