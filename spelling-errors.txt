@@ -19,7 +19,7 @@ CETSA
 chromatographic
 clinial
 commoditized
-covid
+COVID
 CPTAC
 CSF
 cysteines
@@ -60,8 +60,8 @@ mixomics
 Momenzadeh
 MPLEx
 mRNA
-Multiomic
-multiomics
+multiomic
+Multiomics
 Myc
 myeloma
 nano
@@ -100,7 +100,7 @@ SOMAscan
 spectrometry
 synergize
 TMTpro
-tof
+TOF
 transcriptome
 transcriptomics
 translational
