@@ -19,7 +19,7 @@ CETSA
 chromatographic
 clinial
 commoditized
-covid
+COVID
 CPTAC
 CSF
 cysteines
@@ -40,6 +40,7 @@ glycemic
 glycolysis
 Guo
 interactomics
+intergration
 Jaitovich
 janeroe
 jessegmeyerlab
@@ -60,7 +61,7 @@ mixomics
 Momenzadeh
 MPLEx
 mRNA
-multiomic
+Multiomic
 multiomics
 Myc
 myeloma
@@ -69,7 +70,7 @@ nanoLC
 nanopore
 noncoding
 omes
-Omic
+omic
 omics
 orbitrap
 pacbio
@@ -97,10 +98,10 @@ RNAs
 RYGB
 Sera
 SOMAscan
-Spectrometry
+spectrometry
 synergize
 TMTpro
-tof
+TOF
 transcriptome
 transcriptomics
 translational

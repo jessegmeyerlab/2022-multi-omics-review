@@ -84,6 +84,8 @@ content/02.introduction.md:41:PTMomics
 content/02.introduction.md:42:lipidomics
 content/02.introduction.md:42:metabolomics
 content/02.introduction.md:42:metabolomics
+content/02.introduction.md:45:omics
+content/02.introduction.md:46:intergration
 content/03.sample-preparation.md:1:Omic
 content/03.sample-preparation.md:3:biomolecules
 content/03.sample-preparation.md:3:biomolecules

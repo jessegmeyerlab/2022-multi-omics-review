@@ -6,7 +6,7 @@ keywords:
 - lipidomics
 - mass spectrometry
 lang: en-US
-date-meta: '2021-12-30'
+date-meta: '2021-12-31'
 author-meta:
 - Yuming Jiang
 - Quinn Dickinson
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
-  <meta name="dc.date" content="2021-12-30" />
-  <meta name="citation_publication_date" content="2021-12-30" />
+  <meta name="dc.date" content="2021-12-31" />
+  <meta name="citation_publication_date" content="2021-12-31" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/00e581f20dc19799f0e06ab6d98b2946712f0ebb/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/00e581f20dc19799f0e06ab6d98b2946712f0ebb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/00e581f20dc19799f0e06ab6d98b2946712f0ebb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a03c60f71dffc077bd29d404ef88abad7756e2ca/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a03c60f71dffc077bd29d404ef88abad7756e2ca/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a03c60f71dffc077bd29d404ef88abad7756e2ca/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,10 +75,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/00e581f20dc19799f0e06ab6d98b2946712f0ebb/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a03c60f71dffc077bd29d404ef88abad7756e2ca/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@00e581f](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/00e581f20dc19799f0e06ab6d98b2946712f0ebb)
-on December 30, 2021.
+from [jessegmeyerlab/2022-multi-omics-review@a03c60f](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/a03c60f71dffc077bd29d404ef88abad7756e2ca)
+on December 31, 2021.
 </em></small>
 
 ## Authors
@@ -175,7 +175,8 @@ List of Planned Figures:
     * metabolomics: polar metabolomics, lipidomics, 
    
 
-2. 
+2.  Workflow for typical MS-based multi-omics. 
+   * from sample preparation, extraction to data collection, data intergration and processing.
 
 
 
