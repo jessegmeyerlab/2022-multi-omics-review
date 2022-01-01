@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d684418405603b0405fba62bae815a2364e942fe/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d684418405603b0405fba62bae815a2364e942fe/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d684418405603b0405fba62bae815a2364e942fe/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fd382614ad5bcb8b0e371dd98c66ad96b65fa54c/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fd382614ad5bcb8b0e371dd98c66ad96b65fa54c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fd382614ad5bcb8b0e371dd98c66ad96b65fa54c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d684418405603b0405fba62bae815a2364e942fe/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fd382614ad5bcb8b0e371dd98c66ad96b65fa54c/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@d684418](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/d684418405603b0405fba62bae815a2364e942fe)
+from [jessegmeyerlab/2022-multi-omics-review@fd38261](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/fd382614ad5bcb8b0e371dd98c66ad96b65fa54c)
 on January 1, 2022.
 </em></small>
 
@@ -139,16 +139,20 @@ The genome thus indirectly determines the set of possible cellular phenotypic st
 To understand how the genome connects to phenotype, measurement of the genome must be accompanied by measurement of downstream layers of the central dogma of biochemistry (Figure 1?). 
 
 Most RNAs encode for proteins, and aside from noncoding RNA and ribozymes, most of the potential functions encoded in a genome are carried out by proteins. 
-Although extensive research has nearly commoditized RNA measurment or transcriptomics [cite transcriptomics review], multiple studies have found poor correlation between proteins and their corresponding mRNA (add citations especially work from christine vogel, maybe add figure here showing poor correlation of CPTAC mRNA/protein data?).
+Although extensive research has nearly commoditized RNA measurment or transcriptomics [@DOI:https://doi.org/10.1038/nrg2484], multiple studies have found poor correlation between proteins and their corresponding mRNA [@DOI:https://doi.org/10.1038/nrg3185].
 Therefore, functional understanding of a biological state demands quantitations of all proteins that are present. 
-Large scale study of the proteins in a biological system is known as proteomics. 
-Proteomics can include 
+
+Large scale study of the proteins in a biological system is known as proteomics [@DOI:https://doi.org/10.1038/nature19949]. 
+Proteomics originally meant large scale studies of protein quantities [@DOI:10.1038/nprot.2017.040], but it has grown to include large scale studies of protein structure[@DOI:10.1038/nprot.2017.100] [@DOI:10.1586/14789450.2015.1079487] [@DOI:10.1074/jbc.REV119.006218], protein-small molecule interactions[@DOI:10.1146/annurev-pharmtox-052120-013205], and protein-protein interactions [@URL:https://doi.org/10.1016/j.coisb.2017.04.015].. 
+Proteomics is increasingly applied to clinical studies to gain understanding of disease mechansims in humans [@PMID:28436239]. 
 
 Many argue that quantities of proteins are not enough. 
 The presence of a protein does not necessarily equal the presence of that protein's function. 
-Protein functions are regulated in many ways, including allosteric feedback by metabolites and post-translational modifications such as phosphorylation, acylation, or proteolysis (cite something). 
-A large proportion (what proportion are predicted to be metabolic?) of cellular proteins act on metabolites that are intermediates for cell proliferation or catabolism and energy production. 
-The large scale measurement of the cellular metabolite pools is known as metabolomics, which is sometimes further separated into polar metabolomics and lipidomics. 
+Protein functions are regulated in many ways, including allosteric feedback by metabolites and post-translational modifications such as phosphorylation, acylation, or proteolysis [@DOI:10.1002/wsbm.1185]. 
+A large proportion (what proportion are predicted to be metabolic?) of cellular proteins act on metabolites that are intermediates for cell proliferation or catabolism and energy production.
+
+The large scale measurement of the cellular metabolite pools is known as metabolomics [@DOI:https://doi.org/10.1039/C9RA08985C], which is sometimes further separated into polar metabolomics and lipidomics.
+<!-- to do: expand on metabolomics a little here -->
 
 Measurement of multiple omic layers is know as multiomics. 
 Mass spectrometry can measure peptides (or proteins, cite top down review) for proteomic analysis, and also metabolites for metabolomic analysis. 
@@ -163,6 +167,7 @@ Previous reviews have covered related topics.
 A recent review surveyed multiomic studies in mitochondria [@url:https://www.sciencedirect.com/science/article/pii/S0165993619303668] with a focus on sample preparation, qualitity control, methods to collect MS data, and linking measured molecules to phenotypes of respirometry. 
 Another review gives an overview of each omic method, considerations before performing a multiomic method, and multiomic integration [@url:https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1215-1].
 Misra *et al.* reviewed multiomics with a focus on multiomic integration tools [@doi:https://doi.org/10.1530/JME-18-0055].  
+A metabolomics-centered review was recently published that discusses multiomic integration [@DOI:https://doi.org/10.1016/j.aca.2020.10.038].
 
 In this review we focus on the following topics with a focus on mass spectrometry-based multiomics studies that combine proteomics and metabolomics:
 
@@ -175,12 +180,14 @@ In this review we focus on the following topics with a focus on mass spectrometr
 
 List of Planned Figures:
 1. overview of how omic layers are related showing different 'flavors' of each omic analysis
-* genomics: transcription factor binding (chip-seq), long range structure (ATAC seq?), etc
-* transcriptomics: microarrays, RNA-seq, long read nanopore or pacbio
-* proteomics: interactomics, structural proteomics (thermal proteome profiling or CETSA), PTMomics
-* metabolomics: polar metabolomics, lipidomics, 
+genomics: transcription factor binding (chip-seq), long range structure (ATAC seq?), etc
+transcriptomics: microarrays, RNA-seq, long read nanopore or pacbio
+proteomics: interactomics, structural proteomics (thermal proteome profiling or CETSA), PTMomics
+metabolomics: polar metabolomics, lipidomics, 
+
 2.  Workflow for typical MS-based multi-omics. 
-* from sample preparation, extraction to data collection, data intergration and processing.
+from sample preparation, extraction to data collection, data intergration and processing.
+
 3. Table of clinical multiomics studies
 4. Figure showing concepts in multiomics integration?
 5. 
