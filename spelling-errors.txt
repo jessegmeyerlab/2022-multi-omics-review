@@ -70,7 +70,7 @@ nanoLC
 nanopore
 noncoding
 omes
-omic
+Omic
 omics
 orbitrap
 pacbio
@@ -87,7 +87,7 @@ proteolysis
 proteome
 proteomes
 Proteometabolomics
-Proteomic
+proteomic
 proteomics
 PTMomics
 Puf
@@ -98,7 +98,7 @@ RNAs
 RYGB
 Sera
 SOMAscan
-spectrometry
+Spectrometry
 synergize
 TMTpro
 TOF

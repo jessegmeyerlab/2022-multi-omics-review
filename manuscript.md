@@ -6,7 +6,7 @@ keywords:
 - lipidomics
 - mass spectrometry
 lang: en-US
-date-meta: '2021-12-31'
+date-meta: '2022-01-01'
 author-meta:
 - Yuming Jiang
 - Quinn Dickinson
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
-  <meta name="dc.date" content="2021-12-31" />
-  <meta name="citation_publication_date" content="2021-12-31" />
+  <meta name="dc.date" content="2022-01-01" />
+  <meta name="citation_publication_date" content="2022-01-01" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a03c60f71dffc077bd29d404ef88abad7756e2ca/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a03c60f71dffc077bd29d404ef88abad7756e2ca/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a03c60f71dffc077bd29d404ef88abad7756e2ca/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/de9e50caa9fc01598abb03bfa314034ae3b2687b/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/de9e50caa9fc01598abb03bfa314034ae3b2687b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/de9e50caa9fc01598abb03bfa314034ae3b2687b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,10 +75,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/a03c60f71dffc077bd29d404ef88abad7756e2ca/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/de9e50caa9fc01598abb03bfa314034ae3b2687b/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@a03c60f](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/a03c60f71dffc077bd29d404ef88abad7756e2ca)
-on December 31, 2021.
+from [jessegmeyerlab/2022-multi-omics-review@de9e50c](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/de9e50caa9fc01598abb03bfa314034ae3b2687b)
+on January 1, 2022.
 </em></small>
 
 ## Authors
@@ -182,7 +182,8 @@ List of Planned Figures:
 
 ## Sample Preparation for Multi-Omic Analysis
 
-As with any methodology, the first but also a crucial step for analytical success is proper sample preparation. This is particularly important for mass spectrometry-based multi-omic analysis, the selected sample preparation strategy is a key determinant for information that will be obtained. Given the great diversity and complexity of biological samples being tested in proteomics and metabolomics, even subtle differences in sample preparation methods can have profound effects on the types of molecules being extracted, which further affect the retention time, signal stability and ionization efficiency. For example, analysis of different types of biomolecules requires specific sample extraction procedures. The most efficient extraction protocols often only cover a restricted type of biomolecules due to their different physicochemical properties. 
+The basics: As with any methodology, the very first but also a crucial step for analytical success is proper sample preparation. This is particularly vital for mass spectrometry-based multi-omic analysis, the selected sample preparation strategy is a key determinant for information that will be obtained. Given the great diversity and complexity of biological samples being tested in proteomics and metabolomics, even subtle differences in sample preparation methods can have profound effects on the types of molecules being extracted, which further affect the retention time, signal stability and ionization efficiency. For example, analysis of different types of biomolecules requires specific sample extraction procedures. The most efficient extraction protocols often only cover a restricted type of biomolecules due to their different physicochemical properties. 
+After any necessary dissection or collection, biological tissue samples require a step to 
 
 1, Sample preparation for proteomics 
 
