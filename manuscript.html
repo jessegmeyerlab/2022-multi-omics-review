@@ -79,9 +79,9 @@
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/de9e50caa9fc01598abb03bfa314034ae3b2687b/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/de9e50caa9fc01598abb03bfa314034ae3b2687b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/de9e50caa9fc01598abb03bfa314034ae3b2687b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d684418405603b0405fba62bae815a2364e942fe/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d684418405603b0405fba62bae815a2364e942fe/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d684418405603b0405fba62bae815a2364e942fe/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -95,9 +95,9 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/de9e50caa9fc01598abb03bfa314034ae3b2687b/">permalink</a>)
+(<a href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d684418405603b0405fba62bae815a2364e942fe/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/de9e50caa9fc01598abb03bfa314034ae3b2687b">jessegmeyerlab/2022-multi-omics-review@de9e50c</a>
+from <a href="https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/d684418405603b0405fba62bae815a2364e942fe">jessegmeyerlab/2022-multi-omics-review@d684418</a>
 on January 1, 2022.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -141,12 +141,32 @@ Department of Biochemistry, Medical College of Wisconsin
 <h2 class="page_break_before" id="abstract">Abstract</h2>
 <p>Studies that integrate unbiased measurements across at least two omics layers are often referred to as “multiomics”. Measurable “omes” include the genome, transcriptome, proteome, and metabolome. Any combination of omic measures can be referred to as multiomics; for the scope of this review we focus on research combining proteomics and metabolomics. Mass spectrometry is the leading technique for analysis of the proteome and the metabolome. Due to improvements in sample preparation and data collection, more studies are incorporating both mass spectrometry-based proteomics and metabolomics. In this review, we discuss the perceived value of multiomics, advances in sample preparation and data collection, the current state of multiomic data integration, and clinical examples of multiomic analysis. Finally, we explore major barriers preventing democratization of mass spectrometry based multiomics to the same level as nucleic acid analysis, and we suggest solutions to break these barriers.</p>
 <h2 class="page_break_before" id="introduction">Introduction</h2>
-<p>A major goal of biomedical research is understanding how changes in biomolecule compositions of cells and tissues lead to disease phenotypes. The genome serves as a library of possible transcripts, some of which are instructions for proteins, and proteins act on metabolites. The genome thus indirectly determines the set of possible cellular phenotypic states, and the exact cellular state at any given time depends on interaction between the genome with endogenous and exogenous environmental cues. To understand how the genome connects to phenotype, measurement of the genome must be accompanied by measurement of downstream layers of the central dogma of biochemistry (Figure 1?).</p>
-<p>Most RNAs encode for proteins, and aside from noncoding RNA and ribozymes, most of the potential functions encoded in a genome are carried out by proteins. Although extensive research has nearly commoditized RNA measurment or transcriptomics [cite transcriptomics review], multiple studies have found poor correlation between proteins and their corresponding mRNA (add citations especially work from christine vogel, maybe add figure here showing poor correlation of CPTAC mRNA/protein data?). Therefore, functional understanding of a biological state demands quantitations of all proteins that are present. Large scale study of the proteins in a biological system is known as proteomics. Proteomics can include</p>
-<p>Many argue that quantities of proteins is not enough. The presence of a protein does not necessarily equal the presence of that protein’s function. Protein functions are regulated in many ways, including allosteric feedback by metabolites and post-translational modifications such as phosphorylation, acylation, or proteolysis (cite something). A large proportion (what proportion are predicted to be metabolic?) of cellular proteins act on metabolites that are intermediates for cell proliferation or catabolism and energy production. The large scale measurement of the cellular metabolite pools is known as metabolomics, which is sometimes further separated into polar metabolomics and lipidomics.</p>
-<p>Measurement of multiple omic layers is know as multiomics. Mass spectrometry can measure peptides (or proteins, cite top down review) for proteomic analysis, and also metabolites for metabolomic analysis. Over the last decade we have seen an increase in measuring both proteomes and metabolomes from the same sample. Although multiomics can refer to measuring at least any two omes, throughout this review we focus on multiomic measurements between proteomes and metabolomes.</p>
-<p>Integrating data from multiomics should provide more information about the cellular state than the sum of each dataset. Multiomic data integration methods have been developed with different classes of goals. More work is needed to develop methods that take advantage of multiomic data to discover new biological insights into how systems work.</p>
-<p>In this review we cover the following topics related to multiomics:</p>
+<p>A major goal of biomedical research is understanding how changes in biomolecule compositions of cells and tissues lead to disease phenotypes.
+The genome serves as a library of possible transcripts, some of which are instructions for proteins, and proteins act on metabolites.
+The genome thus indirectly determines the set of possible cellular phenotypic states, and the exact cellular state at any given time depends on interaction between the genome with endogenous and exogenous environmental cues.
+To understand how the genome connects to phenotype, measurement of the genome must be accompanied by measurement of downstream layers of the central dogma of biochemistry (Figure 1?).</p>
+<p>Most RNAs encode for proteins, and aside from noncoding RNA and ribozymes, most of the potential functions encoded in a genome are carried out by proteins.
+Although extensive research has nearly commoditized RNA measurment or transcriptomics [cite transcriptomics review], multiple studies have found poor correlation between proteins and their corresponding mRNA (add citations especially work from christine vogel, maybe add figure here showing poor correlation of CPTAC mRNA/protein data?).
+Therefore, functional understanding of a biological state demands quantitations of all proteins that are present.
+Large scale study of the proteins in a biological system is known as proteomics.
+Proteomics can include</p>
+<p>Many argue that quantities of proteins are not enough.
+The presence of a protein does not necessarily equal the presence of that protein’s function.
+Protein functions are regulated in many ways, including allosteric feedback by metabolites and post-translational modifications such as phosphorylation, acylation, or proteolysis (cite something).
+A large proportion (what proportion are predicted to be metabolic?) of cellular proteins act on metabolites that are intermediates for cell proliferation or catabolism and energy production.
+The large scale measurement of the cellular metabolite pools is known as metabolomics, which is sometimes further separated into polar metabolomics and lipidomics.</p>
+<p>Measurement of multiple omic layers is know as multiomics.
+Mass spectrometry can measure peptides (or proteins, cite top down review) for proteomic analysis, and also metabolites for metabolomic analysis.
+Over the last decade we have seen an increase in measuring both proteomes and metabolomes from the same sample.
+Although multiomics can refer to measuring at least any two omes, throughout this review we focus on multiomic measurements between proteomes and metabolomes.</p>
+<p>Integrating data from multiomics should provide more information about the cellular state than the sum of each dataset.
+Multiomic data integration methods have been developed with different classes of goals.
+More work is needed to develop methods that take advantage of multiomic data to discover new biological insights into how systems work.</p>
+<p>Previous reviews have covered related topics.
+A recent review surveyed multiomic studies in mitochondria <span class="citation" data-cites="HnRPo54e">[<a href="#ref-HnRPo54e" role="doc-biblioref">1</a>]</span> with a focus on sample preparation, qualitity control, methods to collect MS data, and linking measured molecules to phenotypes of respirometry.
+Another review gives an overview of each omic method, considerations before performing a multiomic method, and multiomic integration <span class="citation" data-cites="Vu9H5odK">[<a href="#ref-Vu9H5odK" role="doc-biblioref">2</a>]</span>.
+Misra <em>et al.</em> reviewed multiomics with a focus on multiomic integration tools <span class="citation" data-cites="SPp3NcNL">[<a href="#ref-SPp3NcNL" role="doc-biblioref">3</a>]</span>.</p>
+<p>In this review we focus on the following topics with a focus on mass spectrometry-based multiomics studies that combine proteomics and metabolomics:</p>
 <ul>
 <li>sample prepartion methods</li>
 <li>data collection methods</li>
@@ -154,34 +174,17 @@ Department of Biochemistry, Medical College of Wisconsin
 <li>applications to model organisms</li>
 <li>applications to clinical studies</li>
 </ul>
-<ol start="6" type="1">
-<li><p>Other reviews</p>
-<p>Multiomic studies in mitochondria <span class="citation" data-cites="HnRPo54e">[<a href="#ref-HnRPo54e" role="doc-biblioref">1</a>]</span></p>
-<ul>
-<li>discussion of how to prepare samples, QC, and methods to analyze the samples by MS</li>
-<li>includes mention of linking to functional (phenotype) readout</li>
-</ul>
-<p>Multi-omics approaches to disease <span class="citation" data-cites="Vu9H5odK">[<a href="#ref-Vu9H5odK" role="doc-biblioref">2</a>]</span></p>
-<ul>
-<li>overview of each omic technology</li>
-<li>first section is discusses considerations for before multiomic studies: consider the exact disease, sample size, human samples versus model organisms, plan for analysis strategy before collecting data</li>
-<li>second section is focus on methods for omic integration:</li>
-<li>third is future directions:</li>
-</ul>
-<p>Integrated omics: tools, advances and future approaches<span class="citation" data-cites="SPp3NcNL">[<a href="#ref-SPp3NcNL" role="doc-biblioref">3</a>]</span></p></li>
-</ol>
 <p>List of Planned Figures:
 1. overview of how omic layers are related showing different ‘flavors’ of each omic analysis
 * genomics: transcription factor binding (chip-seq), long range structure (ATAC seq?), etc
 * transcriptomics: microarrays, RNA-seq, long read nanopore or pacbio
 * proteomics: interactomics, structural proteomics (thermal proteome profiling or CETSA), PTMomics
-* metabolomics: polar metabolomics, lipidomics,</p>
-<ol start="2" type="1">
-<li>Workflow for typical MS-based multi-omics.</li>
-</ol>
-<ul>
-<li>from sample preparation, extraction to data collection, data intergration and processing.</li>
-</ul>
+* metabolomics: polar metabolomics, lipidomics,
+2. Workflow for typical MS-based multi-omics.
+* from sample preparation, extraction to data collection, data intergration and processing.
+3. Table of clinical multiomics studies
+4. Figure showing concepts in multiomics integration?
+5.</p>
 <h2 id="sample-preparation-for-multi-omic-analysis">Sample Preparation for Multi-Omic Analysis</h2>
 <p>The basics: As with any methodology, the very first but also a crucial step for analytical success is proper sample preparation. This is particularly vital for mass spectrometry-based multi-omic analysis, the selected sample preparation strategy is a key determinant for information that will be obtained. Given the great diversity and complexity of biological samples being tested in proteomics and metabolomics, even subtle differences in sample preparation methods can have profound effects on the types of molecules being extracted, which further affect the retention time, signal stability and ionization efficiency. For example, analysis of different types of biomolecules requires specific sample extraction procedures. The most efficient extraction protocols often only cover a restricted type of biomolecules due to their different physicochemical properties.
 After any necessary dissection or collection, biological tissue samples require a step to</p>
@@ -259,15 +262,15 @@ networks of myriad actions in complex organisms, integration of different multio
 - “Proteomic and Metabolomic Characterization of COVID-19 Patient Sera” <span class="citation" data-cites="VwgXtxp7">[<a href="#ref-VwgXtxp7" role="doc-biblioref">30</a>]</span>: proteomic and metabolomic profiling of serum from 46 COVID-19 patients. Stable isotope labeled proteomics TMTpro (16plex) and and ultra performance liquid chromatography/tandem mass spectrometry (UPLC-MS/MS) untargeted metabolomics to analyze samples. Dysregulation of macrophage, platelet degranulation, complement system, and metabolic suppression in severe COVID-19 patients, useful for selection of biomarkers for severity evaluation. Implemented machine learning model using expression levels of 22 serum proteins and 7 metabolites with overall accuracy of 93.5% in the training set.
 - “High-throughput mediation analysis of human proteome and metabolome identifies mediators of post-bariatric surgical diabetes control”<span class="citation" data-cites="kj9iEc2i">[<a href="#ref-kj9iEc2i" role="doc-biblioref">31</a>]</span> patients with type 2 diabetes randomized to RYGB vs nonsurgical diabetes/weight management; fasting plasma proteome and metabolome were assayed up to 3 years. Plasma proteome profiling was performed using the high-throughput DNA aptamer-based SOMAscan assay platform. Plasma metabolomics were profiled using a commercial semi-quantitative mass spectrometry-based platform (Metabolon, Inc.) using UPLC-MS/MS. Main mediator of improved glycemic control was GHR, which was reduced 3 months after RYGB. GH signaling = diabetogenic effects.
 - “Concurrent lipidomics and proteomics on malignant plasma cells from multiple myeloma patients: Probing the lipid metabolome” <span class="citation" data-cites="r7MXrdme">[<a href="#ref-r7MXrdme" role="doc-biblioref">32</a>]</span> comparing targeted and untargeted lipidomics and proteomics between relapsed and newly diagnosed MM patients
-- “Proteometabolomics of bladder cancer: Current and future prospects” <span class="citation" data-cites="114F5q5qa">[<a href="#ref-114F5q5qa" role="doc-biblioref">33</a>]</span>: simultaneous proteome and metabolome data from urine and blood for urinary bladder cancer patient surveillance to aid in early detection of bladder cancer
+- “Proteometabolomics of bladder cancer: Current and future prospects” <span class="citation" data-cites="doi:10.3233/CBM-150479">[<a href="#ref-doi:10.3233/CBM-150479" role="doc-biblioref"><strong>doi:10.3233/CBM-150479?</strong></a>]</span>: simultaneous proteome and metabolome data from urine and blood for urinary bladder cancer patient surveillance to aid in early detection of bladder cancer
 -
-- “Grade-Dependent Metabolic Reprogramming in Kidney Cancer Revealed by Combined Proteomics and Metabolomics Analysis” <span class="citation" data-cites="17fdPwBLW">[<a href="#ref-17fdPwBLW" role="doc-biblioref">34</a>]</span>
+- “Grade-Dependent Metabolic Reprogramming in Kidney Cancer Revealed by Combined Proteomics and Metabolomics Analysis” <span class="citation" data-cites="17fdPwBLW">[<a href="#ref-17fdPwBLW" role="doc-biblioref">33</a>]</span>
 -
-- “L-Arginine Modulates T Cell Metabolism and Enhances Survival and Anti-tumor Activity” <span class="citation" data-cites="k86tvAbl">[<a href="#ref-k86tvAbl" role="doc-biblioref">35</a>]</span></p>
+- “L-Arginine Modulates T Cell Metabolism and Enhances Survival and Anti-tumor Activity” <span class="citation" data-cites="k86tvAbl">[<a href="#ref-k86tvAbl" role="doc-biblioref">34</a>]</span></p>
 <h3 id="multi-omics-for-covid-19-research">multi-omics for covid-19 research</h3>
 <p>Any reviews on this??</p>
-<p>Guo paper: <span class="citation" data-cites="dU5Sa828">[<a href="#ref-dU5Sa828" role="doc-biblioref">36</a>]</span></p>
-<p>Jaitovich paper: <span class="citation" data-cites="zktsqjwc">[<a href="#ref-zktsqjwc" role="doc-biblioref">37</a>]</span></p>
+<p>Guo paper: <span class="citation" data-cites="dU5Sa828">[<a href="#ref-dU5Sa828" role="doc-biblioref">35</a>]</span></p>
+<p>Jaitovich paper: <span class="citation" data-cites="zktsqjwc">[<a href="#ref-zktsqjwc" role="doc-biblioref">36</a>]</span></p>
 <h2 class="page_break_before" id="references">References</h2>
 <!-- Explicitly insert bibliography here -->
 <div id="refs" class="references csl-bib-body" role="doc-bibliography">
@@ -293,10 +296,10 @@ networks of myriad actions in complex organisms, integration of different multio
 <div class="csl-left-margin">7. </div><div class="csl-right-inline"><a href="https://doi.org/10.3389/fgene.2021.635971">https://doi.org/10.3389/fgene.2021.635971</a></div>
 </div>
 <div id="ref-f4Sxxn1w" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">8. </div><div class="csl-right-inline"><strong>An Integrated, High-Throughput Strategy for Multiomic Systems Level Analysis</strong> <div class="csl-block">Danielle B Gutierrez, Randi L Gant-Branum, Carrie E Romer, Melissa A Farrow, Jamie L Allen, Nikesh Dahal, Yuan-Wei Nei, Simona G Codreanu, Ashley T Jordan, Lauren D Palmer, … Richard M Caprioli</div> <em>Journal of Proteome Research</em> (2018-08-16) <a href="https://doi.org/gfhjtv">https://doi.org/gfhjtv</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1021/acs.jproteome.8b00302">10.1021/acs.jproteome.8b00302</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30114907">30114907</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6469931">PMC6469931</a></div></div>
+<div class="csl-left-margin">8. </div><div class="csl-right-inline"><strong>An Integrated, High-Throughput Strategy for Multiomic Systems Level Analysis</strong> <div class="csl-block">Danielle B Gutierrez, Randi L Gant-Branum, Carrie E Romer, Melissa A Farrow, Jamie L Allen, Nikesh Dahal, Yuan-Wei Nei, Simona G Codreanu, Ashley T Jordan, Lauren D Palmer, … Richard M Caprioli</div> <em>Journal of Proteome Research</em> (2018-10-05) <a href="https://doi.org/gfhjtv">https://doi.org/gfhjtv</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1021/acs.jproteome.8b00302">10.1021/acs.jproteome.8b00302</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30114907">30114907</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6469931">PMC6469931</a></div></div>
 </div>
 <div id="ref-6mBnEL4Y" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">9. </div><div class="csl-right-inline"><strong>Detergent-Free Simultaneous Sample Preparation Method for Proteomics and Metabolomics</strong> <div class="csl-block">Alexandre Zougman, John P Wilson, Lee D Roberts, Rosamonde E Banks</div> <em>Journal of Proteome Research</em> (2019-11-19) <a href="https://doi.org/gnxfr9">https://doi.org/gnxfr9</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1021/acs.jproteome.9b00662">https://doi.org/10.1021/acs.jproteome.9b00662</a></div></div>
+<div class="csl-left-margin">9. </div><div class="csl-right-inline"><strong>Detergent-Free Simultaneous Sample Preparation Method for Proteomics and Metabolomics</strong> <div class="csl-block">Alexandre Zougman, John P Wilson, Lee D Roberts, Rosamonde E Banks</div> <em>Journal of Proteome Research</em> (2020-07-02) <a href="https://doi.org/gnxfr9">https://doi.org/gnxfr9</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1021/acs.jproteome.9b00662">https://doi.org/10.1021/acs.jproteome.9b00662</a></div></div>
 </div>
 <div id="ref-Mn37ufM0" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">10. </div><div class="csl-right-inline"><strong>MPLEx: a Robust and Universal Protocol for Single-Sample Integrative Proteomic, Metabolomic, and Lipidomic Analyses</strong> <div class="csl-block">Ernesto S Nakayasu, Carrie D Nicora, Amy C Sims, Kristin E Burnum-Johnson, Young-Mo Kim, Jennifer E Kyle, Melissa M Matzke, Anil K Shukla, Rosalie K Chu, Athena A Schepmoes, … Thomas O Metz</div> <em>mSystems</em> (2016-06-28) <a href="https://doi.org/gk7gvg">https://doi.org/gk7gvg</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1128/msystems.00043-16">https://doi.org/10.1128/msystems.00043-16</a></div></div>
@@ -332,7 +335,7 @@ networks of myriad actions in complex organisms, integration of different multio
 <div class="csl-left-margin">20. </div><div class="csl-right-inline"><a href="https://journals.plos.org/ploscompbiol/article?id">https://journals.plos.org/ploscompbiol/article?id</a></div>
 </div>
 <div id="ref-15ZabGck2" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">21. </div><div class="csl-right-inline"><strong>Multi-omics Data Integration, Interpretation, and Its Application</strong> <div class="csl-block">Indhupriya Subramanian, Srikant Verma, Shiva Kumar, Abhay Jere, Krishanpal Anamika</div> <em>Bioinformatics and Biology Insights</em> (2020-01-31) <a href="https://doi.org/ggn3c8">https://doi.org/ggn3c8</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1177/1177932219899051">https://doi.org/10.1177/1177932219899051</a></div></div>
+<div class="csl-left-margin">21. </div><div class="csl-right-inline"><strong>Multi-omics Data Integration, Interpretation, and Its Application</strong> <div class="csl-block">Indhupriya Subramanian, Srikant Verma, Shiva Kumar, Abhay Jere, Krishanpal Anamika</div> <em>Bioinformatics and Biology Insights</em> (2020-01) <a href="https://doi.org/ggn3c8">https://doi.org/ggn3c8</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1177/1177932219899051">https://doi.org/10.1177/1177932219899051</a></div></div>
 </div>
 <div id="ref-4LMKQFJ1" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">22. </div><div class="csl-right-inline"><strong>Multiomics Method Enabled by Sequential Metabolomics and Proteomics for Human Pluripotent Stem-Cell-Derived Cardiomyocytes</strong> <div class="csl-block">Elizabeth F Bayne, Aaron D Simmons, David S Roberts, Yanlong Zhu, Timothy J Aballo, Benjamin Wancewicz, Sean P Palecek, Ying Ge</div> <em>Journal of Proteome Research</em> (2021-10-01) <a href="https://pubs.acs.org/doi/10.1021/acs.jproteome.1c00611">https://pubs.acs.org/doi/10.1021/acs.jproteome.1c00611</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1021/acs.jproteome.1c00611">10.1021/acs.jproteome.1c00611</a></div></div>
@@ -367,20 +370,17 @@ networks of myriad actions in complex organisms, integration of different multio
 <div id="ref-r7MXrdme" class="csl-entry" role="doc-biblioentry">
 <div class="csl-left-margin">32. </div><div class="csl-right-inline"><strong>Concurrent lipidomics and proteomics on malignant plasma cells from multiple myeloma patients: Probing the lipid metabolome</strong> <div class="csl-block">Ahmed Mohamed, Joel Collins, Hui Jiang, Jeffrey Molendijk, Thomas Stoll, Federico Torta, Markus R Wenk, Robert J Bird, Paula Marlton, Peter Mollee, … Michelle M Hill</div> <em>PLOS ONE</em> (2020-01-08) <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227455">https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227455</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1371/journal.pone.0227455">10.1371/journal.pone.0227455</a></div></div>
 </div>
-<div id="ref-114F5q5qa" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">33. </div><div class="csl-right-inline"><strong>Proteometabolomics of bladder cancer: Current and future prospects</strong> <div class="csl-block">Navneeta Bansal, Ashish Gupta, Satya Narain Sankhwar</div> <em>Cancer Biomarkers</em> (2015-06-02) <a href="https://doi.org/gnw6ft">https://doi.org/gnw6ft</a> <div class="csl-block">DOI: <a href="https://doi.org/10.3233/cbm-150479">10.3233/cbm-150479</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/25792474">25792474</a></div></div>
-</div>
 <div id="ref-17fdPwBLW" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">34. </div><div class="csl-right-inline"><strong>Grade-Dependent Metabolic Reprogramming in Kidney Cancer Revealed by Combined Proteomics and Metabolomics Analysis</strong> <div class="csl-block">Hiromi I Wettersten, AAri Hakimi, Dexter Morin, Cristina Bianchi, Megan E Johnstone, Dallas R Donohoe, Josephine F Trott, Omran Abu Aboud, Steven Stirdivant, Bruce Neri, … Robert H Weiss</div> <em>Cancer Research</em> (2015-06-15) <a href="https://doi.org/f7h8zh">https://doi.org/f7h8zh</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1158/0008-5472.can-14-1703">10.1158/0008-5472.can-14-1703</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/25952651">25952651</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4470795">PMC4470795</a></div></div>
+<div class="csl-left-margin">33. </div><div class="csl-right-inline"><strong>Grade-Dependent Metabolic Reprogramming in Kidney Cancer Revealed by Combined Proteomics and Metabolomics Analysis</strong> <div class="csl-block">Hiromi I Wettersten, AAri Hakimi, Dexter Morin, Cristina Bianchi, Megan E Johnstone, Dallas R Donohoe, Josephine F Trott, Omran Abu Aboud, Steven Stirdivant, Bruce Neri, … Robert H Weiss</div> <em>Cancer Research</em> (2015-06-15) <a href="https://doi.org/f7h8zh">https://doi.org/f7h8zh</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1158/0008-5472.can-14-1703">10.1158/0008-5472.can-14-1703</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/25952651">25952651</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4470795">PMC4470795</a></div></div>
 </div>
 <div id="ref-k86tvAbl" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">35. </div><div class="csl-right-inline"><strong>L-Arginine Modulates T Cell Metabolism and Enhances Survival and Anti-tumor Activity</strong> <div class="csl-block">Roger Geiger, Jan C Rieckmann, Tobias Wolf, Camilla Basso, Yuehan Feng, Tobias Fuhrer, Maria Kogadeeva, Paola Picotti, Felix Meissner, Matthias Mann, … Antonio Lanzavecchia</div> <em>Cell</em> (2016-10) <a href="https://doi.org/f88qkm">https://doi.org/f88qkm</a> <div class="csl-block">DOI: <a href="http://dx.doi.org/10.1016/j.cell.2016.09.031">http://dx.doi.org/10.1016/j.cell.2016.09.031</a></div></div>
+<div class="csl-left-margin">34. </div><div class="csl-right-inline"><strong>L-Arginine Modulates T Cell Metabolism and Enhances Survival and Anti-tumor Activity</strong> <div class="csl-block">Roger Geiger, Jan C Rieckmann, Tobias Wolf, Camilla Basso, Yuehan Feng, Tobias Fuhrer, Maria Kogadeeva, Paola Picotti, Felix Meissner, Matthias Mann, … Antonio Lanzavecchia</div> <em>Cell</em> (2016-10) <a href="https://doi.org/f88qkm">https://doi.org/f88qkm</a> <div class="csl-block">DOI: <a href="http://dx.doi.org/10.1016/j.cell.2016.09.031">http://dx.doi.org/10.1016/j.cell.2016.09.031</a></div></div>
 </div>
 <div id="ref-dU5Sa828" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">36. </div><div class="csl-right-inline"><strong>Proteomic and Metabolomic Characterization of COVID-19 Patient Sera</strong> <div class="csl-block">Bo Shen, Xiao Yi, Yaoting Sun, Xiaojie Bi, Juping Du, Chao Zhang, Sheng Quan, Fangfei Zhang, Rui Sun, Liujia Qian, … Tiannan Guo</div> <em>Cell</em> (2020-07) <a href="https://doi.org/gg2cck">https://doi.org/gg2cck</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1016/j.cell.2020.05.032">https://doi.org/10.1016/j.cell.2020.05.032</a></div></div>
+<div class="csl-left-margin">35. </div><div class="csl-right-inline"><strong>Proteomic and Metabolomic Characterization of COVID-19 Patient Sera</strong> <div class="csl-block">Bo Shen, Xiao Yi, Yaoting Sun, Xiaojie Bi, Juping Du, Chao Zhang, Sheng Quan, Fangfei Zhang, Rui Sun, Liujia Qian, … Tiannan Guo</div> <em>Cell</em> (2020-07) <a href="https://doi.org/gg2cck">https://doi.org/gg2cck</a> <div class="csl-block">DOI: <a href="https://doi.org/10.1016/j.cell.2020.05.032">https://doi.org/10.1016/j.cell.2020.05.032</a></div></div>
 </div>
 <div id="ref-zktsqjwc" class="csl-entry" role="doc-biblioentry">
-<div class="csl-left-margin">37. </div><div class="csl-right-inline"><a href="https://doi.org/10.1016/j.cels.2020.10.003">https://doi.org/10.1016/j.cels.2020.10.003</a></div>
+<div class="csl-left-margin">36. </div><div class="csl-right-inline"><a href="https://doi.org/10.1016/j.cels.2020.10.003">https://doi.org/10.1016/j.cels.2020.10.003</a></div>
 </div>
 </div>
 <!-- default theme -->
