@@ -6,7 +6,7 @@ keywords:
 - lipidomics
 - mass spectrometry
 lang: en-US
-date-meta: '2022-01-01'
+date-meta: '2022-01-03'
 author-meta:
 - Yuming Jiang
 - Quinn Dickinson
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
-  <meta name="dc.date" content="2022-01-01" />
-  <meta name="citation_publication_date" content="2022-01-01" />
+  <meta name="dc.date" content="2022-01-03" />
+  <meta name="citation_publication_date" content="2022-01-03" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fd382614ad5bcb8b0e371dd98c66ad96b65fa54c/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fd382614ad5bcb8b0e371dd98c66ad96b65fa54c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fd382614ad5bcb8b0e371dd98c66ad96b65fa54c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/5cafd19ffbdbcf7d91e955d581446583fb1bae9d/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/5cafd19ffbdbcf7d91e955d581446583fb1bae9d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/5cafd19ffbdbcf7d91e955d581446583fb1bae9d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,10 +75,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/fd382614ad5bcb8b0e371dd98c66ad96b65fa54c/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/5cafd19ffbdbcf7d91e955d581446583fb1bae9d/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@fd38261](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/fd382614ad5bcb8b0e371dd98c66ad96b65fa54c)
-on January 1, 2022.
+from [jessegmeyerlab/2022-multi-omics-review@5cafd19](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/5cafd19ffbdbcf7d91e955d581446583fb1bae9d)
+on January 3, 2022.
 </em></small>
 
 ## Authors
@@ -146,17 +146,18 @@ Large scale study of the proteins in a biological system is known as proteomics 
 Proteomics originally meant large scale studies of protein quantities [@DOI:10.1038/nprot.2017.040], but it has grown to include large scale studies of protein structure[@DOI:10.1038/nprot.2017.100] [@DOI:10.1586/14789450.2015.1079487] [@DOI:10.1074/jbc.REV119.006218], protein-small molecule interactions[@DOI:10.1146/annurev-pharmtox-052120-013205], and protein-protein interactions [@URL:https://doi.org/10.1016/j.coisb.2017.04.015].. 
 Proteomics is increasingly applied to clinical studies to gain understanding of disease mechansims in humans [@PMID:28436239]. 
 
-Many argue that quantities of proteins are not enough. 
+Many argue that quantities of proteins are not sufficient to enable understanding and dissection of biological systems. 
 The presence of a protein does not necessarily equal the presence of that protein's function. 
 Protein functions are regulated in many ways, including allosteric feedback by metabolites and post-translational modifications such as phosphorylation, acylation, or proteolysis [@DOI:10.1002/wsbm.1185]. 
-A large proportion (what proportion are predicted to be metabolic?) of cellular proteins act on metabolites that are intermediates for cell proliferation or catabolism and energy production.
+Roughly 2,700 cellular proteins are predicted to be enzymes [@DOI:10.1186/gb-2004-6-1-r2], many of which act on metabolites that are intermediates required for cell proliferation or energy production.
 
-The large scale measurement of the cellular metabolite pools is known as metabolomics [@DOI:https://doi.org/10.1039/C9RA08985C], which is sometimes further separated into polar metabolomics and lipidomics.
-<!-- to do: expand on metabolomics a little here -->
+The large scale measurement of the cellular metabolite pools is known as metabolomics [@DOI:https://doi.org/10.1039/C9RA08985C], which is sometimes further separated into polar metabolomics and lipidomics [@DOI:https://doi.org/10.1007/s00216-018-1252-y]. 
+Due to the chemical heterogeneity of metabolites, metabolomics studies use a variety of different separation and mass spectrometry (MS) techniques, including both gas chromatography (GC) [@PMID:27038389] and liquid chromatograhpy (LC)[@DOI:10.1002/jssc.201100532]. 
+The field of metabolomics is trending toward more use of LC-MS over NMR [@DOI:10.1016/j.trac.2018.11.021].
 
 Measurement of multiple omic layers is know as multiomics. 
-Mass spectrometry can measure peptides (or proteins, cite top down review) for proteomic analysis, and also metabolites for metabolomic analysis. 
-Over the last decade we have seen an increase in measuring both proteomes and metabolomes from the same sample. 
+MS measures peptides (or intact proteins [@DOI:10.1039/C9MO00154A]) for proteomic analysis, but MS also measures metabolites for metabolomic analysis. 
+Increasingly studies use MS to measure both proteomes and metabolomes from the same sample. 
 Although multiomics can refer to measuring at least any two omes, throughout this review we focus on multiomic measurements between proteomes and metabolomes. 
 
 Integrating data from multiomics should provide more information about the cellular state than the sum of each dataset. 
@@ -169,7 +170,7 @@ Another review gives an overview of each omic method, considerations before perf
 Misra *et al.* reviewed multiomics with a focus on multiomic integration tools [@doi:https://doi.org/10.1530/JME-18-0055].  
 A metabolomics-centered review was recently published that discusses multiomic integration [@DOI:https://doi.org/10.1016/j.aca.2020.10.038].
 
-In this review we focus on the following topics with a focus on mass spectrometry-based multiomics studies that combine proteomics and metabolomics:
+In this review we focus on the following topics with a focus on MS-based multiomics studies that combine proteomics and metabolomics:
 
 * sample prepartion methods
 * data collection methods
@@ -179,14 +180,16 @@ In this review we focus on the following topics with a focus on mass spectrometr
 
 
 List of Planned Figures:
+
 1. overview of how omic layers are related showing different 'flavors' of each omic analysis
-genomics: transcription factor binding (chip-seq), long range structure (ATAC seq?), etc
-transcriptomics: microarrays, RNA-seq, long read nanopore or pacbio
-proteomics: interactomics, structural proteomics (thermal proteome profiling or CETSA), PTMomics
-metabolomics: polar metabolomics, lipidomics, 
+
+  genomics: transcription factor binding (chip-seq), long range structure (ATAC seq?), etc
+  transcriptomics: microarrays, RNA-seq, long read nanopore or pacbio
+  proteomics: interactomics, structural proteomics (thermal proteome profiling or CETSA), PTMomics
+  metabolomics: polar metabolomics, lipidomics, 
 
 2.  Workflow for typical MS-based multi-omics. 
-from sample preparation, extraction to data collection, data intergration and processing.
+  from sample preparation, extraction to data collection, data intergration and processing.
 
 3. Table of clinical multiomics studies
 4. Figure showing concepts in multiomics integration?
