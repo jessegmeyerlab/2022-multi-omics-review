@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/e8fc1b23775a8ffad4a68720882a787098309887/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/e8fc1b23775a8ffad4a68720882a787098309887/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/e8fc1b23775a8ffad4a68720882a787098309887/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/4b8bdbf2dc9533b4cedde0b9ebdc13f0e23ba2bf/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/4b8bdbf2dc9533b4cedde0b9ebdc13f0e23ba2bf/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/4b8bdbf2dc9533b4cedde0b9ebdc13f0e23ba2bf/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/e8fc1b23775a8ffad4a68720882a787098309887/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/4b8bdbf2dc9533b4cedde0b9ebdc13f0e23ba2bf/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@e8fc1b2](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/e8fc1b23775a8ffad4a68720882a787098309887)
+from [jessegmeyerlab/2022-multi-omics-review@4b8bdbf](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/4b8bdbf2dc9533b4cedde0b9ebdc13f0e23ba2bf)
 on January 5, 2022.
 </em></small>
 
@@ -375,14 +375,14 @@ Holistic approach has the ability to improve prognostics and predictive accuracy
 * "Concurrent lipidomics and proteomics on malignant plasma cells from multiple myeloma patients: Probing the lipid metabolome" [@url:https://doi.org/10.1371/journal.pone.0227455] comparing targeted and untargeted lipidomics and proteomics between relapsed and newly diagnosed MM patients
 * "Proteometabolomics of bladder cancer: Current and future prospects" [@doi:10.3233/CBM-150479]: simultaneous proteome and metabolome data from urine and blood for urinary bladder cancer patient surveillance to aid in early detection of bladder cancer 
 * "Grade-Dependent Metabolic Reprogramming in Kidney Cancer Revealed by Combined Proteomics and Metabolomics Analysis"   [@doi:10.1158/0008-5472.CAN-14-1703]
-* "Metabolomic/lipidomic profiling of COVID-19 and individual response to tocilizumab" https://doi.org/10.1371/journal.ppat.1009243
-* "Multi-Omics Resolves a Sharp Disease-State Shift between Mild and Moderate COVID-19" https://doi.org/10.1016/j.cell.2020.10.037
-* "Multi-Omics integration analysis of respiratory specimen characterizes baseline molecular determinants associated with COVID-19 diagnosis" https://doi.org/10.1101/2020.07.06.20147082 
-* "Longitudinal multi-omics analysis identifies responses of megakaryocytes, erythroid cells and plasmablasts as hallmarks of severe COVID-19 trajectories" https://doi.org/10.1101/2020.09.11.20187369 
 
 ## Approaches in COVID-19 research:
 * "Proteomic and Metabolomic Characterization of COVID-19 Patient Sera" [@url:https://doi.org/10.1016/j.cell.2020.05.032]: proteomic and metabolomic profiling of serum from 46 COVID-19 patients. Stable isotope labeled proteomics TMTpro (16plex) and and ultra performance liquid chromatography/tandem mass spectrometry (UPLC-MS/MS) untargeted metabolomics to analyze samples. Dysregulation of macrophage, platelet degranulation, complement system, and metabolic suppression in severe COVID-19 patients, useful for selection of biomarkers for severity evaluation. Implemented machine learning model using expression levels of 22 serum proteins and 7 metabolites with overall accuracy of 93.5% in the training set.
-*Jaitovich paper: [@url:https://doi.org/10.1016/j.cels.2020.10.003]: investigation of proteins, lipids, and metabolites associated with COVID-19 status and severity in pts admitted with moderate to severe respiratory issues presumably related to SARS-CoV-2 infection.
+*Large-Scale Multi-omic Analysis of COVID-19 Severity: [@url:https://doi.org/10.1016/j.cels.2020.10.003]: investigation of proteins, lipids, and metabolites associated with COVID-19 status and severity in pts admitted with moderate to severe respiratory issues presumably related to SARS-CoV-2 infection.
+* "Metabolomic/lipidomic profiling of COVID-19 and individual response to tocilizumab" [@url:https://doi.org/10.1371/journal.ppat.1009243]
+* "Multi-Omics Resolves a Sharp Disease-State Shift between Mild and Moderate COVID-19" [@url:https://doi.org/10.1016/j.cell.2020.10.037]
+* "Multi-Omics integration analysis of respiratory specimen characterizes baseline molecular determinants associated with COVID-19 diagnosis" [@url:https://doi.org/10.1101/2020.07.06.20147082]
+* "Longitudinal multi-omics analysis identifies responses of megakaryocytes, erythroid cells and plasmablasts as hallmarks of severe COVID-19 trajectories" [@url:https://doi.org/10.1101/2020.09.11.20187369]
 
 ## Misc disease states:
 * "Integration of metabolomics and proteomics in multiple sclerosis: From biomarkers discovery to personalized medicine" [@url:https://doi.org/10.1002/prca.201500083]: majority of biomarkers for MS are not sensitive and/or specific enough to be used for population screening. From the 188 proposed biomarker candidates for MS found in CSF, only 10 (5%) have been successfully verified, while 20 have been falsified. This is likely due to the inter-individual variation. Integrating omics approaches may help with this pitfall; proteomics in combination with the other “omics” may synergize to proide a more precise spectrum of information capable of better characterizing a phenotype. When proteins alone, metabolites alone and proteins and metabolites together were uploaded into the ingenuity pathway analysis (IPA) tool,  number of matched molecules for “proteins and metabolites” is higher than the sum of molecules matched in the separate searches.

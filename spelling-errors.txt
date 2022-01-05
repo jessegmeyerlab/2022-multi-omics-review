@@ -41,7 +41,6 @@ glycemic
 glycolysis
 interactomics
 intergration
-Jaitovich
 janeroe
 jessegmeyerlab
 Jiang
@@ -54,8 +53,8 @@ mechansims
 megakaryocytes
 metabolome
 metabolomes
-metabolomic
-metabolomics
+Metabolomic
+Metabolomics
 Metabolon
 microarrays
 Misra
@@ -64,7 +63,7 @@ mixomics
 Momenzadeh
 MPLEx
 mRNA
-multiomic
+Multiomic
 multiomics
 Myc
 myeloma
@@ -74,7 +73,7 @@ nanopore
 NMR
 noncoding
 omes
-Omic
+omic
 omics
 orbitrap
 pacbio
@@ -110,7 +109,7 @@ spectrometry
 synergize
 TMTpro
 tocilizumab
-tof
+TOF
 transcriptome
 transcriptomics
 translational
