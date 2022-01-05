@@ -19,7 +19,7 @@ chromatograhpy
 chromatographic
 clinial
 commoditized
-COVID
+covid
 CSF
 cysteines
 dataset
@@ -53,7 +53,7 @@ mechansims
 metabolome
 metabolomes
 Metabolomic
-metabolomics
+Metabolomics
 Metabolon
 microarrays
 Misra
@@ -62,7 +62,7 @@ mixomics
 Momenzadeh
 MPLEx
 mRNA
-Multiomic
+multiomic
 multiomics
 Myc
 myeloma
@@ -89,7 +89,7 @@ proteolysis
 proteome
 proteomes
 Proteometabolomics
-proteomic
+Proteomic
 proteomics
 PTMomics
 Puf
