@@ -6,7 +6,7 @@ keywords:
 - lipidomics
 - mass spectrometry
 lang: en-US
-date-meta: '2022-01-05'
+date-meta: '2022-01-06'
 author-meta:
 - Yuming Jiang
 - Quinn Dickinson
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
-  <meta name="dc.date" content="2022-01-05" />
-  <meta name="citation_publication_date" content="2022-01-05" />
+  <meta name="dc.date" content="2022-01-06" />
+  <meta name="citation_publication_date" content="2022-01-06" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/4b8bdbf2dc9533b4cedde0b9ebdc13f0e23ba2bf/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/4b8bdbf2dc9533b4cedde0b9ebdc13f0e23ba2bf/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/4b8bdbf2dc9533b4cedde0b9ebdc13f0e23ba2bf/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/b5c6d720afbd345646ad1e206e47edefaae9d1cd/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/b5c6d720afbd345646ad1e206e47edefaae9d1cd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/b5c6d720afbd345646ad1e206e47edefaae9d1cd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,10 +75,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/4b8bdbf2dc9533b4cedde0b9ebdc13f0e23ba2bf/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/b5c6d720afbd345646ad1e206e47edefaae9d1cd/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@4b8bdbf](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/4b8bdbf2dc9533b4cedde0b9ebdc13f0e23ba2bf)
-on January 5, 2022.
+from [jessegmeyerlab/2022-multi-omics-review@b5c6d72](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/b5c6d720afbd345646ad1e206e47edefaae9d1cd)
+on January 6, 2022.
 </em></small>
 
 ## Authors
@@ -320,8 +320,19 @@ networks of myriad actions in complex organisms, integration of different multio
 
 
   Argonaut data integration manuscript - [@URL:https://doi.org/10.1016/j.patter.2020.100122]
+  
+  
 
   "Integration strategies of multi-omics data for machine learning analysis" [@PMID:34285775]
+  
+  Split strategies into five categories
+     Early integration: Place all omics datasets into single matrix
+        tends to focus on largest dataset, missing data from other omic datasets [@PMID:18178960] 
+        simple, easy implementation, allows ML models to learn interactions between layers
+     Mixed integration: Map each dataset into new representation befrooe combining
+     Intermediate integration: Transform datasets into common and omic-specific representations
+     Late Integration: analyze each omic layer separately and combine final predictions
+     hierachical integration: base integration of datasets on regulatory relationships between omic layers
 
   "Multi-omics data integration considerations and study design for biological systems and disease" [@PMID:33347526]
   

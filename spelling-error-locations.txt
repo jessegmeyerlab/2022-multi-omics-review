@@ -180,10 +180,23 @@ content/04. methodology.md:47:Multiomics
 content/04. methodology.md:47:Pluripotent
 content/04. methodology.md:47:Proteomics
 content/05.data-integration.md:1:Omic
-content/05.data-integration.md:8:omics
 content/05.data-integration.md:10:omics
-content/05.data-integration.md:12:mixomics
-content/05.data-integration.md:16:omics
+content/05.data-integration.md:13:datasets
+content/05.data-integration.md:13:omics
+content/05.data-integration.md:14:dataset
+content/05.data-integration.md:14:datasets
+content/05.data-integration.md:14:omic
+content/05.data-integration.md:16:befrooe
+content/05.data-integration.md:16:dataset
+content/05.data-integration.md:17:datasets
+content/05.data-integration.md:17:omic
+content/05.data-integration.md:18:omic
+content/05.data-integration.md:19:datasets
+content/05.data-integration.md:19:hierachical
+content/05.data-integration.md:19:omic
+content/05.data-integration.md:21:omics
+content/05.data-integration.md:23:mixomics
+content/05.data-integration.md:27:omics
 content/06.example-studies-model-organisms.md:1:Omics
 content/06.example-studies-model-organisms.md:1:Spectrometry
 content/06.example-studies-model-organisms.md:3:Cardiomyocytes
