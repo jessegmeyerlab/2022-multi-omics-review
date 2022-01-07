@@ -44,7 +44,7 @@ intergration
 janeroe
 jessegmeyerlab
 Jiang
-lipidomic
+Lipidomic
 lipidomics
 macrophage
 MALDI
@@ -53,7 +53,7 @@ mechansims
 megakaryocytes
 metabolome
 metabolomes
-metabolomic
+Metabolomic
 metabolomics
 Metabolon
 microarrays
@@ -63,8 +63,8 @@ mixomics
 Momenzadeh
 MPLEx
 mRNA
-Multiomic
-Multiomics
+multiomic
+multiomics
 Myc
 myeloma
 nano
@@ -73,7 +73,7 @@ nanopore
 NMR
 noncoding
 omes
-Omic
+omic
 omics
 orbitrap
 pacbio
@@ -105,7 +105,7 @@ RNAs
 RYGB
 Sera
 SOMAscan
-spectrometry
+Spectrometry
 synergize
 TMTpro
 tocilizumab

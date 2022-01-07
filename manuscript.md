@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/f923b96ed6ab570c70083d1d901ee8e2183b452c/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/f923b96ed6ab570c70083d1d901ee8e2183b452c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/f923b96ed6ab570c70083d1d901ee8e2183b452c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/b8fcc1c1fea77f73e9408c018e2c6f969db764d6/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/b8fcc1c1fea77f73e9408c018e2c6f969db764d6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/b8fcc1c1fea77f73e9408c018e2c6f969db764d6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/f923b96ed6ab570c70083d1d901ee8e2183b452c/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/b8fcc1c1fea77f73e9408c018e2c6f969db764d6/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@f923b96](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/f923b96ed6ab570c70083d1d901ee8e2183b452c)
+from [jessegmeyerlab/2022-multi-omics-review@b8fcc1c](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/b8fcc1c1fea77f73e9408c018e2c6f969db764d6)
 on January 7, 2022.
 </em></small>
 
@@ -324,8 +324,16 @@ networks of myriad actions in complex organisms, integration of different multio
 Multi-omics data integration considerations and study design for biological systems and disease -  [@URL: https://doi.org/10.1039/D0MO00041H]
 
   List of software available for multiomic integration
+    
+    Metaboanalyst 4.0 - Metabolomics data analysis, interpretation, and integration with other omics data [@PMID: 31756036]
   
-  
+    Paintomics 3.0 (web based) - Joint visualization of transcriptomics and metabolomics data [@URL: https://doi.org/10.1093/bioinformatics/btq594]
+    
+    integrOmics (R package) - Integrative analysis of two types of omics datasets [@URL: https://doi.org/10.1093/bioinformatics/btp515]
+    
+    Omics Integrator - Maps protein data to other data sets [@URL: https://doi.org/10.1371/journal.pcbi.1004879]
+    
+    mixOmics (R package) - Data exploration, dimension reduction, and visualization [@URL: https://doi.org/10.1371/journal.pcbi.1005752]
   
 
   "Integration strategies of multi-omics data for machine learning analysis" [@PMID:34285775]
