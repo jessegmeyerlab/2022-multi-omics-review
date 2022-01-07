@@ -24,6 +24,7 @@ COVID
 CSF
 cysteines
 dataset
+datasets
 degranulation
 diabetogenic
 Downregulated
@@ -44,7 +45,7 @@ intergration
 janeroe
 jessegmeyerlab
 Jiang
-Lipidomic
+lipidomic
 lipidomics
 macrophage
 MALDI
@@ -53,8 +54,8 @@ mechansims
 megakaryocytes
 metabolome
 metabolomes
-metabolomic
-Metabolomics
+Metabolomic
+metabolomics
 Metabolon
 microarrays
 Misra
@@ -63,7 +64,7 @@ mixomics
 Momenzadeh
 MPLEx
 mRNA
-Multiomic
+multiomic
 multiomics
 Myc
 myeloma
@@ -91,8 +92,8 @@ proteolysis
 proteome
 proteomes
 Proteometabolomics
-proteomic
-proteomics
+Proteomic
+Proteomics
 PTMomics
 pts
 Puf
