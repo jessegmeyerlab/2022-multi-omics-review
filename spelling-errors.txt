@@ -8,7 +8,6 @@ amandamomenzadeh
 aptamer
 ATAC
 bariatric
-befrooe
 Biogenesis
 biomarker
 biomarkers
@@ -25,7 +24,6 @@ COVID
 CSF
 cysteines
 dataset
-datasets
 degranulation
 diabetogenic
 Downregulated
@@ -41,13 +39,12 @@ GH
 GHR
 glycemic
 glycolysis
-hierachical
 interactomics
 intergration
 janeroe
 jessegmeyerlab
 Jiang
-Lipidomic
+lipidomic
 lipidomics
 macrophage
 MALDI
@@ -66,8 +63,8 @@ mixomics
 Momenzadeh
 MPLEx
 mRNA
-multiomic
-multiomics
+Multiomic
+Multiomics
 Myc
 myeloma
 nano
@@ -76,7 +73,7 @@ nanopore
 NMR
 noncoding
 omes
-omic
+Omic
 omics
 orbitrap
 pacbio
@@ -112,7 +109,7 @@ spectrometry
 synergize
 TMTpro
 tocilizumab
-tof
+TOF
 transcriptome
 transcriptomics
 translational
