@@ -44,7 +44,7 @@ intergration
 janeroe
 jessegmeyerlab
 Jiang
-lipidomic
+Lipidomic
 lipidomics
 macrophage
 MALDI
@@ -54,7 +54,7 @@ megakaryocytes
 metabolome
 metabolomes
 metabolomic
-metabolomics
+Metabolomics
 Metabolon
 microarrays
 Misra
@@ -64,7 +64,7 @@ Momenzadeh
 MPLEx
 mRNA
 Multiomic
-Multiomics
+multiomics
 Myc
 myeloma
 nano
@@ -91,8 +91,8 @@ proteolysis
 proteome
 proteomes
 Proteometabolomics
-Proteomic
-Proteomics
+proteomic
+proteomics
 PTMomics
 pts
 Puf
@@ -105,11 +105,11 @@ RNAs
 RYGB
 Sera
 SOMAscan
-spectrometry
+Spectrometry
 synergize
 TMTpro
 tocilizumab
-TOF
+tof
 transcriptome
 transcriptomics
 translational

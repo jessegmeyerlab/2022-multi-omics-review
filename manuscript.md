@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/e7cede24b62f2ad3579d25e16dd14f5e68dbf026/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/e7cede24b62f2ad3579d25e16dd14f5e68dbf026/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/e7cede24b62f2ad3579d25e16dd14f5e68dbf026/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d5bd2e9374d976027f5d4b801a2639db3526dc5d/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d5bd2e9374d976027f5d4b801a2639db3526dc5d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d5bd2e9374d976027f5d4b801a2639db3526dc5d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/e7cede24b62f2ad3579d25e16dd14f5e68dbf026/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/d5bd2e9374d976027f5d4b801a2639db3526dc5d/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@e7cede2](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/e7cede24b62f2ad3579d25e16dd14f5e68dbf026)
+from [jessegmeyerlab/2022-multi-omics-review@d5bd2e9](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/d5bd2e9374d976027f5d4b801a2639db3526dc5d)
 on January 7, 2022.
 </em></small>
 
@@ -366,6 +366,8 @@ Multi-omics data integration considerations and study design for biological syst
   Correlation analysis:
   Network Analyses and Data Integration of Proteomics and Metabolomics From Leaves of Two Contrasting Varieties of Sugarcane in Response to Drought [@URL: https://internal-journal.frontiersin.org/articles/10.3389/fpls.2019.01524/full] Regularized Canonical Correlation Analysis
   
+  
+ Clustering and variable selection evaluation of 13 unsupervised methods for multi-omics data integration [@URL:https://academic.oup.com/bib/article/21/6/2011/5645549?login=true]
 
 
 ## Mass Spectrometry-based Multi-Omics Applied to Model Organisms
