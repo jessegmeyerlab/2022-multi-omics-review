@@ -19,6 +19,7 @@ chromatograhpy
 chromatographic
 clinial
 commoditized
+Comorbidities
 CoV
 COVID
 CSF
@@ -28,6 +29,7 @@ dataset
 datasets
 degranulation
 diabetogenic
+differentially
 Downregulated
 Dysregulation
 electrophoresis
@@ -50,12 +52,14 @@ Lipidomic
 lipidomics
 macrophage
 MALDI
+MapMan
 measurment
 mechansims
 megakaryocytes
+Mellitus
 metabolome
 metabolomes
-metabolomic
+Metabolomic
 metabolomics
 Metabolon
 microarrays
@@ -107,11 +111,11 @@ RNAs
 RYGB
 Sera
 SOMAscan
-spectrometry
+Spectrometry
 synergize
 TMTpro
 tocilizumab
-TOF
+tof
 transcriptome
 transcriptomics
 translational

@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/74dd79380d713bb63efa8f18fa1527edc81fbd58/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/74dd79380d713bb63efa8f18fa1527edc81fbd58/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/74dd79380d713bb63efa8f18fa1527edc81fbd58/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/7483be0d06e9483af7d4aa31d2a1c03142c1cfe3/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/7483be0d06e9483af7d4aa31d2a1c03142c1cfe3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/7483be0d06e9483af7d4aa31d2a1c03142c1cfe3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,9 +75,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/74dd79380d713bb63efa8f18fa1527edc81fbd58/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/7483be0d06e9483af7d4aa31d2a1c03142c1cfe3/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@74dd793](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/74dd79380d713bb63efa8f18fa1527edc81fbd58)
+from [jessegmeyerlab/2022-multi-omics-review@7483be0](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/7483be0d06e9483af7d4aa31d2a1c03142c1cfe3)
 on January 19, 2022.
 </em></small>
 
@@ -379,6 +379,13 @@ Specifically proteomics and metabolomics:
 [@URL: https://www.nature.com/articles/s41598-018-25035-1#MOESM1] Uses feature selection for proteomic and metabolomic data to create logistic regression predicting survivors from non-survivors during severe septic shock
 
 [@URL: https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC2556022/] Integration of Metabolomic and Proteomic Phenotypes - correlation and protein metabolite covariance
+
+[@URL: https://www.frontiersin.org/articles/10.3389/fendo.2018.00678/full] Integration of Proteomics and Metabolomics Revealed Metabolite–Protein Networks in ACTH-Secreting Pituitary Adenoma - hierarchical clustering, pathway enrichment analysis
+[@URL:https://www.dovepress.com/integrated-datasets-of-proteomic-and-metabolomic-biomarkers-to-predict-peer-reviewed-fulltext-article-DMSO] - Integrated Datasets of Proteomic and Metabolomic Biomarkers to Predict Its Impacts on Comorbidities of Type 2 Diabetes Mellitus - "ingenuity pathway analysis"
+
+[@URL: https://pubs.acs.org/doi/10.1021/acs.jafc.0c00986] - Integrated Proteomics and Metabolomics Analysis Highlights Correlative Metabolite-Protein Networks in Soybean Seeds Subjected to Warm-Water Soaking - hierarchical clustering of differentially expressed proteins - "MapMan" - GO enrichment
+
+
 
 
 
