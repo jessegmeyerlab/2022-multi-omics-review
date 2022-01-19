@@ -240,6 +240,7 @@ content/05.data-integration.md:70:differentially
 content/05.data-integration.md:70:MapMan
 content/05.data-integration.md:70:Metabolomics
 content/05.data-integration.md:70:Proteomics
+content/05.data-integration.md:72:combinational
 content/06.example-studies-model-organisms.md:1:Omics
 content/06.example-studies-model-organisms.md:1:Spectrometry
 content/06.example-studies-model-organisms.md:3:Cardiomyocytes

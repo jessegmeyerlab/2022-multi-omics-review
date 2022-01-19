@@ -18,6 +18,7 @@ CETSA
 chromatograhpy
 chromatographic
 clinial
+combinational
 commoditized
 Comorbidities
 CoV
@@ -26,7 +27,7 @@ CSF
 cysteines
 datase
 dataset
-datasets
+Datasets
 degranulation
 diabetogenic
 differentially
@@ -48,7 +49,7 @@ intergration
 janeroe
 jessegmeyerlab
 Jiang
-Lipidomic
+lipidomic
 lipidomics
 macrophage
 MALDI
@@ -59,7 +60,7 @@ megakaryocytes
 Mellitus
 metabolome
 metabolomes
-Metabolomic
+metabolomic
 metabolomics
 Metabolon
 microarrays
@@ -80,10 +81,10 @@ NMR
 noncoding
 omes
 omic
-omics
+Omics
 orbitrap
 pacbio
-Phenotypes
+phenotypes
 phenotypic
 physicochemical
 plasmablasts
@@ -111,11 +112,11 @@ RNAs
 RYGB
 Sera
 SOMAscan
-Spectrometry
+spectrometry
 synergize
 TMTpro
 tocilizumab
-tof
+TOF
 transcriptome
 transcriptomics
 translational
