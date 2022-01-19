@@ -23,6 +23,7 @@ CoV
 COVID
 CSF
 cysteines
+datase
 dataset
 datasets
 degranulation
@@ -45,7 +46,7 @@ intergration
 janeroe
 jessegmeyerlab
 Jiang
-lipidomic
+Lipidomic
 lipidomics
 macrophage
 MALDI
@@ -54,7 +55,7 @@ mechansims
 megakaryocytes
 metabolome
 metabolomes
-Metabolomic
+metabolomic
 metabolomics
 Metabolon
 microarrays
@@ -64,7 +65,7 @@ mixomics
 Momenzadeh
 MPLEx
 mRNA
-multiomic
+Multiomic
 multiomics
 Myc
 myeloma
@@ -78,7 +79,7 @@ omic
 omics
 orbitrap
 pacbio
-phenotypes
+Phenotypes
 phenotypic
 physicochemical
 plasmablasts
@@ -93,7 +94,7 @@ proteome
 proteomes
 Proteometabolomics
 Proteomic
-Proteomics
+proteomics
 PTMomics
 pts
 Puf
@@ -106,11 +107,11 @@ RNAs
 RYGB
 Sera
 SOMAscan
-Spectrometry
+spectrometry
 synergize
 TMTpro
 tocilizumab
-tof
+TOF
 transcriptome
 transcriptomics
 translational

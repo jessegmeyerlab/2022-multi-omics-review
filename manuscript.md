@@ -6,7 +6,7 @@ keywords:
 - lipidomics
 - mass spectrometry
 lang: en-US
-date-meta: '2022-01-07'
+date-meta: '2022-01-19'
 author-meta:
 - Yuming Jiang
 - Quinn Dickinson
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
-  <meta name="dc.date" content="2022-01-07" />
-  <meta name="citation_publication_date" content="2022-01-07" />
+  <meta name="dc.date" content="2022-01-19" />
+  <meta name="citation_publication_date" content="2022-01-19" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/41bf60682eadcf277d4d15a030b1e1f0dabd7d4a/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/41bf60682eadcf277d4d15a030b1e1f0dabd7d4a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/41bf60682eadcf277d4d15a030b1e1f0dabd7d4a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/74dd79380d713bb63efa8f18fa1527edc81fbd58/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/74dd79380d713bb63efa8f18fa1527edc81fbd58/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/74dd79380d713bb63efa8f18fa1527edc81fbd58/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,10 +75,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/41bf60682eadcf277d4d15a030b1e1f0dabd7d4a/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/74dd79380d713bb63efa8f18fa1527edc81fbd58/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@41bf606](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/41bf60682eadcf277d4d15a030b1e1f0dabd7d4a)
-on January 7, 2022.
+from [jessegmeyerlab/2022-multi-omics-review@74dd793](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/74dd79380d713bb63efa8f18fa1527edc81fbd58)
+on January 19, 2022.
 </em></small>
 
 ## Authors
@@ -316,6 +316,8 @@ networks of myriad actions in complex organisms, integration of different multio
 
 ## Multi-Omic Data Integration
 
+Using mass spectrometry, the data collected is proteomics and metabolomics. Integration of these datase
+
 
 
 
@@ -371,6 +373,13 @@ Multi-omics data integration considerations and study design for biological syst
 
 
 Data integration and predictive modeling methods for multi-omics datasets [@URL: https://pubs.rsc.org/en/content/articlehtml/2018/mo/c7mo00051k]
+
+
+Specifically proteomics and metabolomics:
+[@URL: https://www.nature.com/articles/s41598-018-25035-1#MOESM1] Uses feature selection for proteomic and metabolomic data to create logistic regression predicting survivors from non-survivors during severe septic shock
+
+[@URL: https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC2556022/] Integration of Metabolomic and Proteomic Phenotypes - correlation and protein metabolite covariance
+
 
 
 ## Mass Spectrometry-based Multi-Omics Applied to Model Organisms
