@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/gh-pages) branch hosts the contents of this directory at <https://jessegmeyerlab.github.io/2022-multi-omics-review/>.
-The permalink for this webpage version is <https://jessegmeyerlab.github.io/2022-multi-omics-review/v/7483be0d06e9483af7d4aa31d2a1c03142c1cfe3/>.
+The permalink for this webpage version is <https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ec02a8922f1e4b89310d583468acb4ec7968a145/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://jessegmeyerlab.github.io/2022-multi-omics-review/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`7483be0d06e9483af7d4aa31d2a1c03142c1cfe3`](https://github.com/jessegmeyerlab/2022-multi-omics-review/commit/7483be0d06e9483af7d4aa31d2a1c03142c1cfe3).
+[`ec02a8922f1e4b89310d583468acb4ec7968a145`](https://github.com/jessegmeyerlab/2022-multi-omics-review/commit/ec02a8922f1e4b89310d583468acb4ec7968a145).
