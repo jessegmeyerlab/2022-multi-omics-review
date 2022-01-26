@@ -6,7 +6,7 @@ keywords:
 - lipidomics
 - mass spectrometry
 lang: en-US
-date-meta: '2022-01-19'
+date-meta: '2022-01-26'
 author-meta:
 - Yuming Jiang
 - Quinn Dickinson
@@ -22,8 +22,8 @@ header-includes: |-
   <meta name="citation_title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="og:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
   <meta property="twitter:title" content="Mass Spectrometry-based Multi-Omics: Combined Studies of Proteomics, Metabolomics, and/or Lipidomics" />
-  <meta name="dc.date" content="2022-01-19" />
-  <meta name="citation_publication_date" content="2022-01-19" />
+  <meta name="dc.date" content="2022-01-26" />
+  <meta name="citation_publication_date" content="2022-01-26" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -51,9 +51,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/" />
   <meta name="citation_pdf_url" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ec02a8922f1e4b89310d583468acb4ec7968a145/" />
-  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ec02a8922f1e4b89310d583468acb4ec7968a145/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ec02a8922f1e4b89310d583468acb4ec7968a145/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/aaab95334c813f09835c0de561990fad800861fe/" />
+  <meta name="manubot_html_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/aaab95334c813f09835c0de561990fad800861fe/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jessegmeyerlab.github.io/2022-multi-omics-review/v/aaab95334c813f09835c0de561990fad800861fe/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -75,10 +75,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/ec02a8922f1e4b89310d583468acb4ec7968a145/))
+([permalink](https://jessegmeyerlab.github.io/2022-multi-omics-review/v/aaab95334c813f09835c0de561990fad800861fe/))
 was automatically generated
-from [jessegmeyerlab/2022-multi-omics-review@ec02a89](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/ec02a8922f1e4b89310d583468acb4ec7968a145)
-on January 19, 2022.
+from [jessegmeyerlab/2022-multi-omics-review@aaab953](https://github.com/jessegmeyerlab/2022-multi-omics-review/tree/aaab95334c813f09835c0de561990fad800861fe)
+on January 26, 2022.
 </em></small>
 
 ## Authors
@@ -318,8 +318,11 @@ networks of myriad actions in complex organisms, integration of different multio
 
 Using mass spectrometry, the data collected is proteomics and metabolomics. Integration of these datase
 
+Reviews:
 
+Multi-omics Data Integration, Interpretation, and Its Application [@URL:https://journals.sagepub.com/doi/10.1177/1177932219899051]
 
+Network approaches to systems biology analysis of complex disease: integrative methods for multi-omics data [@URL:https://academic.oup.com/bib/article/19/6/1370/3904446]
 
   Argonaut data integration manuscript - [@URL:https://doi.org/10.1016/j.patter.2020.100122]
   
@@ -348,7 +351,7 @@ Multi-omics data integration considerations and study design for biological syst
         
         simple, easy implementation, allows ML models to learn interactions between layers
         
-     Mixed integration: Map each dataset into new representation befrooe combining
+     Mixed integration: Map each dataset into new representation before combining
      
      Intermediate integration: Transform datasets into common and omic-specific representations
      
@@ -378,14 +381,27 @@ Data integration and predictive modeling methods for multi-omics datasets [@URL:
 Specifically proteomics and metabolomics:
 [@URL:https://www.nature.com/articles/s41598-018-25035-1#MOESM1] Uses feature selection for proteomic and metabolomic data to create logistic regression predicting survivors from non-survivors during severe septic shock
 
+In Cambiaghi et al 2018 [@URL:https://www.nature.com/articles/s41598-018-25035-1#MOESM1], targeted metabolomics and untarged proteomics were collected from septic shock patients from day one to day seven. To integrate the data, logistic regression models were built to link the metabolomics and proteomics data with patient outcome. Feature selection was performed on the metabolomic data set with minimal-redundancy-maximal-relevance (mRMR) [PMID:16119262]. Further feature selection was performed using an elastic net logistic model to select variables up to the sample size of 17.  Linear Discriminant analysis and partial least squares discriminant analysis were used on the top scoring metabolites. To integrate targeted metabolomics with untargeted proteomics, mRMR was applied. The top 50 ranked proteins were combined with top 50 ranked metabolites and mRMR repeated. Additionally, clinical data was integrated in a similar manner. This method represents an early integration strategy with feature selection as the means to determine biological relationships.
+
 [@URL:https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC2556022/] Integration of Metabolomic and Proteomic Phenotypes - correlation and protein metabolite covariance
+In Wienkoop et al 2008
+
 
 [@URL:https://www.frontiersin.org/articles/10.3389/fendo.2018.00678/full] Integration of Proteomics and Metabolomics Revealed Metabolite–Protein Networks in ACTH-Secreting Pituitary Adenoma - hierarchical clustering, pathway enrichment analysis
+In Feng et al 2018, metabolomics data and proteomics data were collected on adrenocorticotropic hormone-secreting pituitary adenomas. Metabolomics data was prepared and analyzed with MetaboAnalyst [@URL:http://www.metaboanalyst.ca/faces/home.xhtml]. Heirarchical cluster analysis was performed with MetabolAnalyst. Proteomics data was analyzed with ProteinPilot and searched against the SwissProt Database. Protein enrichment analysis was perfomred with Gene Set Enrichment Analysis [@URL:http://software.broadinstitute.org/gsea/msigdb/index.jsp]. Further integration such as network analysis was performed in MetaboAnalyst. This represents a late integration strategy where each dataset is processed separately and conclusions drawn from the connections linking the separate analyses.
+
 [@URL:https://www.dovepress.com/integrated-datasets-of-proteomic-and-metabolomic-biomarkers-to-predict-peer-reviewed-fulltext-article-DMSO] - Integrated Datasets of Proteomic and Metabolomic Biomarkers to Predict Its Impacts on Comorbidities of Type 2 Diabetes Mellitus - "ingenuity pathway analysis"
+In Cheema et al 2020, 
 
 [@URL:https://pubs.acs.org/doi/10.1021/acs.jafc.0c00986] - Integrated Proteomics and Metabolomics Analysis Highlights Correlative Metabolite-Protein Networks in Soybean Seeds Subjected to Warm-Water Soaking - hierarchical clustering of differentially expressed proteins - "MapMan" - GO enrichment
+In Min et al 2020, proteomics and metabolomics data was collected on soybean seeds soaked at 4, 25, and 55C. Proteomics data was processed using MaxQuant and Perseus. Enrichment of significantly changed proteins was analyzed using MapMan[cite]. Metabolomic data was analysed by unit-varience scaling the data and using principal component analysis and partial least-squares discriminant analysis using Soft Independent Modeling of Class Analogy (SIMCA)[cite]. MetaboAnalyst was used for Hierachical Cluster analysis between samples and compounds. Pearson's correlation analysis was perfomed with Statistical Analysis System (SAS)[cite]. This represents a late integration strategy where each dataset is processed separately and conclusions drawn from the connections linking the separate analyses.
+
+
+
 
 How are people analyzing data? What software is available for combinational analysis? Why aren't these being utilized? What gaps in analysis are there in the software?
+
+Metabolomics and Proteomics represent two facets of the spectrum of multiomic data analysis. Through the integration of these datasets, insights can be gleaned that may not be evident from each individual source. The strategies for the integration of any set of multiomic data can be broadly divided into two categories, namely early integration and late integration[source]. Early integration strategies combine the datasets, potentially with adjustments to make the datasets compatably scaled, before further analysis [Source]. The essence of late integration strategies is to analyze each dataset separately then combine knowledge gained from each to support further conclusions [Source]. Each strategy employed have positive and negative aspects that affect the downsteam analysis of the multiomic data. The
 
 
 
